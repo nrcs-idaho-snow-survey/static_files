@@ -1,0 +1,113 @@
+Station Id,State Code,Network Code,Station Name,basin,Elevation,Latitude,Longitude,County Name,HUC12 (12-digit),HUC12 Name,Start Date,End Date
+10020100,WY,USGS,Bear R ab Resv nr Woodruff,Bear,6455,41.43439,-111.01769,Uinta,1.60101E+11,Whitney Canyon Creek-Bear River,10/1/1957,1/1/2100
+10020300,WY,USGS,"Bear R Below Reservoir, Near Woodruff, U",Bear,6400,41.50556,-111.01389,Uinta,1.60101E+11,Whitney Canyon Creek-Bear River,10/1/1961,1/1/2100
+10046500,ID,USGS,Bear R bl Stewart Dam,Bear,5950,42.25382,-111.29381,Bear Lake,1.60102E+11,Bear Hollow-Bear River,10/1/1926,1/1/2100
+,,,Bear R nr Ut-Wy State Line,Bear,,,,,,,,
+,,,Big Creek nr Randolph,Bear,,,,,,,,
+13120500,ID,USGS,Big Lost R at Howell Ranch,Big Lost,6622,43.99833,-114.02111,Custer,1.70402E+11,Rock Creek-Big Lost River,1/1/1904,1/1/2100
+13127000,ID,USGS,Big Lost R bl Mackay Reservoir,Big Lost,5946,43.93917,-113.64833,Custer,1.70402E+11,Lower Cedar Creek-Big Lost River,12/1/1903,1/1/2100
+9213500,WY,USGS,Big Sandy R nr Farson,,6770,42.31689,-109.48569,Sublette,1.40401E+11,1.40401E+11,10/1/1914,1/1/2100
+13141000,ID,USGS,Big Wood R ab Magic Reservoir,Big Wood,4820,43.32806,-114.34167,Blaine,1.70402E+11,Poverty Flat-Big Wood River,7/6/1911,1/1/2100
+13139510,ID,USGS,Big Wood R at Hailey,Big Wood,5295,43.51722,-114.32167,Blaine,1.70402E+11,Indian Creek-Big Wood River,7/1/1915,1/1/2100
+13140800,ID,USGS,Big Wood R at Stanton Xing,Big Wood,4830,43.32917,-114.31917,Blaine,1.70402E+11,Poverty Flat-Big Wood River,1/1/1900,1/1/2100
+13142500,ID,USGS,Big Wood R bl Magic Dam,Big Wood,4662,43.24806,-114.35667,Blaine,1.70402E+11,Wedge Butte-Big Wood River,4/19/1911,1/1/2100
+13063000,ID,USGS,Blackfoot R ab Reservoir nr Henry,Willow-Blackfoot-Portneuf,6259,42.81528,-111.50667,Caribou,1.70402E+11,Mouth of Blackfoot River,3/25/1914,1/1/2100
+13202000,ID,USGS,Boise R nr Boise,,2827,43.52767,-116.05955,Ada,1.70501E+11,Warm Springs Creek-Boise River,1895-01-01,1/1/2100
+13185000,ID,USGS,Boise R nr Twin Springs,Boise,3310,43.66806,-115.72528,Boise,1.70501E+11,Badger Creek-Boise River,1/1/1911,1/1/2100
+12321500,ID,USGS,Boundary Ck nr Porthill,Pend Oreille-Kootenai,1770,48.99717,-116.5691,Boundary,1.70101E+11,Saddle Creek-Boundary Creek,1/1/1928,1/1/2100
+13161500,NV,USGS,Bruneau R at Rowland,Bruneau,4500,41.93333,-115.67361,Elko,1.70501E+11,Taylor Creek-Bruneau River,6/1/1913,1/1/2100
+13168500,ID,USGS,Bruneau R nr Hot Spring,Bruneau,2599,42.77111,-115.72028,Owyhee,1.70501E+11,Seventy One Gulch-Bruneau River,1/1/1909,1/1/2100
+13011900,WY,USGS,Buffalo Fk ab Lava Ck nr Moran,Snake Basin Above Palisades,6773,43.83806,-110.44083,Teton,1.70401E+11,Stewart Draw-Snake River,9/22/1965,1/1/2100
+13112000,ID,USGS,Camas Ck at Camas,Birch-Medicine Lodge-Beaver-Camas,4807,44.00278,-112.22111,Jefferson,1.70402E+11,Lower Camas Creek,1/1/1925,1/1/2100
+13141500,ID,USGS,Camas Ck nr Blaine,Big Wood,4870,43.33278,-114.54194,Camas,1.70402E+11,Poison Creek-Camas Creek,6/1/1912,1/1/2100
+12392000,ID,USGS,Clark Fork R at Whitehorse Rapids,Pend Oreille-Kootenai,2060,48.09167,-116.11667,Bonner,1.70102E+11,Clark Fork River-Cabinet Gorge Dam,10/1/1928,1/1/2100
+12391950,ID,USGS,Clark Fork R bl Cabinet Gorge Dam,Pend Oreille-Kootenai,2060,48.08806,-116.07278,Bonner,1.70102E+11,Clark Fork River-Cabinet Gorge Dam,1850-01-01,1/1/2100
+13340000,ID,USGS,Clearwater R at Orofino,Clearwater,991,46.47833,-116.2575,Clearwater,1.70603E+11,Big Creek-Clearwater River,10/1/1930,1/1/2100
+13342500,ID,USGS,Clearwater R at Spalding,Clearwater,770,46.4485,-116.82737,Nez Perce,1.70603E+11,Catholic Creek-Clearwater River,10/1/1910,1/1/2100
+13341050,ID,USGS,"Clearwater River Near Peck, ID",Clearwater,930,46.5,-116.38333,Nez Perce,1.70603E+11,Wheeler Canyon-Clearwater River,10/1/1964,1/1/2100
+13236500,ID,USGS,Deadwood Reservoir Inflow,Payette,5181,44.29194,-115.64194,Valley,1.70501E+11,Warm Springs Creek,10/1/1926,1/1/2100
+13340950,ID,USGS,Dworshak Reservoir Inflow,Clearwater,1500,46.51528,-116.29611,Clearwater,1.70603E+11,Freeman Creek-North Fork Clearwater River,10/1/1926,1/1/2100
+9220000,WY,USGS,EF of Smiths Fork nr Robertson,,8470,41.05411,-110.39849,Uinta,1.40401E+11,Gilbert Creek,1889-07-01,1/1/2100
+13047600,ID,USGS,Falls R nr Ashton,Henrys Fork-Teton,5390,44.05611,-111.35861,Fremont,1.70402E+11,Squirrel Creek,10/1/1939,1/1/2100
+13047500,ID,USGS,"Falls River Near Squirrel, ID",Henrys Fork-Teton,5590,44.06667,-111.23333,Fremont,1.70402E+11,Squirrel Creek,10/1/1904,1/1/2100
+13082500,ID,USGS,Goose Ck abv Trapper Ck nr Oakley,Goose Creek,4770,42.12611,-113.93556,Cassia,1.70402E+11,Cave Creek Reservoir-Goose Creek,4/29/1911,1/1/2100
+9211150,WY,USGS,Green R at Fontenelle Dam,,6506,42.02778,-110.06667,Lincoln,1.40401E+11,Middle Fontenelle Creek,10/1/1957,1/1/2100
+9188500,WY,USGS,Green R at Warren Bridge,,7468,43.01883,-110.11822,Sublette,1.40401E+11,Big Twin Creek-Green River,10/1/1931,1/1/2100
+9217000,WY,USGS,"Green R nr Green River, WY",,6060,41.51635,-109.44902,Sweetwater,1.40401E+11,Middle Firehole Canyon-Green River,10/1/1951,1/1/2100
+9209400,WY,USGS,Green R nr La Barge,,6520,42.2,-110.16667,Lincoln,1.40401E+11,Upper Fontenelle Creek,10/1/1963,1/1/2100
+13023000,WY,USGS,Greys R ab Reservoir nr Alpine,Snake Basin Above Palisades,5729,43.14306,-110.97694,Lincoln,1.70401E+11,Squaw Creek-Greys River,7/6/1917,1/1/2100
+13014500,WY,USGS,Gros Ventre R at Kelly,Snake Basin Above Palisades,6750,43.62089,-110.62306,Teton,1.70401E+11,Bierer Creek-Gros Ventre River,6/16/1918,1/1/2100
+9223000,WY,USGS,Hams Fk bl Pole Ck nr Frontier,,7455,42.11049,-110.70962,Lincoln,1.40401E+11,West Beaver Creek-Hams Fork,10/1/1952,1/1/2100
+9223100,WY,USGS,Hams Fk bl Viva Naughton Reservoir,,7160,41.96337,-110.66011,Lincoln,1.40401E+11,Fish Creek-Hams Fork,10/1/1960,1/1/2100
+13046000,ID,USGS,Henrys Fk nr Ashton,Henrys Fork-Teton,5090,44.06972,-111.51056,Fremont,1.70402E+11,Snow Creek-Henrys Fork,1890-04-01,1/1/2100
+13056500,ID,USGS,Henrys Fk nr Rexburg,Henrys Fork-Teton,4806,43.82583,-111.905,Madison,1.70402E+11,Cartier Slough-Henrys Fork,4/1/1909,1/1/2100
+13162225,NV,USGS,Jarbidge River Below Jarbidge,Bruneau,6050,41.89056,-115.42778,Elko,1.70501E+11,West Fork Pine Creek-Jarbidge River,1/1/1997,1/1/2100
+13313000,ID,USGS,Johnson Ck at Yellow Pine,Salmon,4656,44.96167,-115.5,Valley,1.70602E+11,Porcupine Creek-Johnson Creek,9/1/1928,1/1/2100
+,,,Kootenai R at Leonia,Pend Oreille-Kootenai,,,,,,,,
+13240000,ID,USGS,Lake Fork Payette R nr Mccall,Payette,5140,44.91361,-115.99722,Valley,1.70501E+11,Little Payette Lake,10/1/1945,1/1/2100
+13305000,ID,USGS,Lemhi R nr Lemhi,Salmon,4960,44.94,-113.63917,Lemhi,1.70602E+11,Muddy Creek-Lemhi River,12/1/1938,1/1/2100
+13118700,ID,USGS,Little Lost R bl Wet Ck nr Howe,Little Lost,5880,44.13861,-113.24528,Butte,1.70402E+11,Williams Creek-Little Lost River,1/1/1958,1/1/2100
+13119000,ID,USGS,"Little Lost River Near Howe, ID",Little Lost,5700,43.88333,-113.1,Butte,1.70402E+11,Warm Spring Creek-Little Lost River,4/13/1921,1/1/2100
+13316500,ID,USGS,"Little Salmon River at Riggins, ID",Salmon,1760,45.4,-116.31667,Idaho,1.70602E+11,Hailey Creek-Little Salmon River,1/1/1951,1/1/2100
+13147900,ID,USGS,Little Wood R ab High Five Ck,Little Wood,5320,43.49306,-114.05722,Blaine,1.70402E+11,Little Wood River Reservoir,10/1/1958,1/1/2100
+13148500,ID,USGS,Little Wood R nr Carey,Little Wood,4991,43.39,-113.99972,Blaine,1.70402E+11,Burgess Creek-Little Wood River,5/1/1925,1/1/2100
+13337000,ID,USGS,Lochsa R nr Lowell,Clearwater,1453,46.15083,-115.58722,Idaho,1.70603E+11,Glade Creek-Lochsa River,10/1/1910,1/1/2100
+13075000,ID,USGS,"Marsh Creek Near Mccammon, ID",Willow-Blackfoot-Portneuf,4610,42.61667,-112.21667,Bannock,1.70402E+11,Goodenough Creek-Marsh Creek,9/27/1954,1/1/2100
+13309220,ID,USGS,Mf Salmon R at Mf Lodge,Salmon,4380,44.72167,-115.01639,Custer,1.70602E+11,Thomas Creek-Middle Fork Salmon River,4/1/1973,1/1/2100
+13200000,ID,USGS,Mores Ck nr Arrowrock Dam,Boise,3120,43.64806,-115.98972,Boise,1.70501E+11,Deer Creek-Mores Creek,10/1/1950,1/1/2100
+12306500,ID,USGS,Moyie R at Eastport,Pend Oreille-Kootenai,2620,48.99917,-116.17972,Boundary,1.70101E+11,Copper Creek-Moyie River,9/1/1929,1/1/2100
+13120000,ID,USGS,N Fk Big Lost R at Wild Horse nr Chilly,Big Lost,6820,43.93278,-114.11389,Custer,1.70402E+11,Lower North Fork Big Lost River,4/1/1944,1/1/2100
+9205000,WY,USGS,New Fork R nr Big Piney,,6800,42.56717,-109.93015,Sublette,1.40401E+11,Cottonwood Creek,1/1/1954,1/1/2100
+12413000,ID,USGS,NF Coeur dAlene R at Enaville,Coeur DAlene-St. Joe,2100,47.56889,-116.25333,Shoshone,1.70103E+11,Thomas Creek-Lower North Fork Coeur d'Alene River,3/3/1911,1/1/2100
+12411000,ID,USGS,"NF Coeur DAlene R nr Prichard, ID",Coeur DAlene-St. Joe,2485,47.7,-115.96667,Shoshone,1.70103E+11,Yellow Dog Creek-Middle North Fork Coeur d'Alene River,10/1/1950,1/1/2100
+13245000,ID,USGS,NF Payette R at Cascade,Payette,4720,44.52489,-116.0468,Valley,1.70501E+11,Pearsol Creek-North Fork Payette River,5/1/1941,1/1/2100
+13246000,ID,USGS,NF Payette R nr Banks,Payette,3081,44.11417,-116.10722,Boise,1.70501E+11,Howell Creek-North Fork Payette River,4/21/1947,1/1/2100
+13239000,ID,USGS,NF Payette River at Mccall,Payette,4968,44.9045,-116.11667,Valley,1.70501E+11,Hartsell Creek-North Fork Payette River,9/1/1908,1/1/2100
+13340600,ID,USGS,"North Fork Clearwater R nr Canyon Rs, ID",Clearwater,1660,46.83333,-115.61667,Clearwater,1.70603E+11,Sneak Creek-North Fork Clearwater River,1/1/1967,1/1/2100
+13083500,ID,USGS,Oakley Reservoir Inflow,Goose Creek,4720,42.19528,-113.915,Cassia,1.70402E+11,Cave Creek Reservoir-Goose Creek,5/1/1911,1/1/2100
+13174500,NV,USGS,Owyhee R nr Gold Ck,Owyhee,6119,41.68879,-115.84481,Elko,1.70501E+11,Badger Creek-Owyhee River,4/1/1916,1/1/2100
+,,,Owyhee R nr Owyhee Dam,Owyhee,,,,,,,,
+,,,Owyhee R nr Rome,Owyhee,,,,,,,,
+13011500,WY,USGS,Pacific Ck at Moran,Snake Basin Above Palisades,6720,43.85028,-110.51778,Teton,1.70401E+11,Berry Creek,1/1/1917,1/1/2100
+13345000,ID,USGS,"Palouse River Near Potlatch, ID",,2455,46.9,-116.95,Latah,1.70601E+11,Gnat Creek-Palouse River,10/24/1914,1/1/2100
+13247500,ID,USGS,Payette R nr Horseshoe Bend,Payette,2626,43.94333,-116.19667,Boise,1.70501E+11,Jackass Creek-Payette River,10/1/1906,1/1/2100
+12395500,ID,USGS,Pend Oreille Lake Inflow,,2000,48.18213,-117.03437,Bonner,1.70102E+11,Exposure Creek-Pend Oreille River,7/1/1903,1/1/2100
+9196500,WY,USGS,Pine Ck ab Fremont Lake,,7450,43.0305,-109.77015,Sublette,1.40401E+11,Duck Creek-New Fork River,1889-07-01,1/1/2100
+13073000,ID,USGS,Portneuf R at Topaz,Willow-Blackfoot-Portneuf,4918,42.62472,-112.08806,Bannock,1.70402E+11,East Bob Smith Creek-Portneuf River,1/1/1913,1/1/2100
+13075500,ID,USGS,"Portneuf River at Pocatello, ID",Willow-Blackfoot-Portneuf,4418,42.86667,-112.46667,Bannock,1.70402E+11,Trail Creek-Portneuf River,1897-05-18,1/1/2100
+12395000,ID,USGS,Priest R nr Priest River,Pend Oreille-Kootenai,2090,48.20852,-116.91464,Bonner,1.70102E+11,Sanborn Creek-Priest River,7/1/1903,1/1/2100
+13172583,ID,USGS,Reynolds Ck at Tollgate,,4626,43.14289,-116.76153,Owyhee,1.70501E+11,Middle Reynolds Creek,10/1/1966,1/1/2100
+13105000,NV,USGS,Salmon Falls Ck nr San Jacinto,Salmon Falls,5120,41.94472,-114.68861,Elko,1.70402E+11,San Jacinto Ranch Spring-Salmon Falls Creek,1/1/1910,1/1/2100
+13302500,ID,USGS,Salmon R at Salmon,Salmon,3911,45.18361,-113.89528,Lemhi,1.70602E+11,Perreau Creek-Salmon River,10/1/1912,1/1/2100
+13317000,ID,USGS,Salmon R at White Bird,Salmon,1413,45.75028,-116.32389,Idaho,1.70602E+11,Sotin Creek-Salmon River,9/1/1910,1/1/2100
+13027500,WY,USGS,Salt R ab Reservoir nr Etna,Snake Basin Above Palisades,5676,43.07972,-111.03722,Lincoln,1.70401E+11,Salt River-Dry Creek,10/1/1953,1/1/2100
+13336500,ID,USGS,Selway R nr Lowell,Clearwater,1540,46.08667,-115.51389,Idaho,1.70603E+11,Rackliff Creek-Selway River,4/11/1911,1/1/2100
+13190500,ID,USGS,SF Boise R at Anderson Ranch Dam,Boise,3830,43.34361,-115.4775,Elmore,1.70501E+11,Cayuse Creek-South Fork Boise River,4/8/1943,1/1/2100
+13235000,ID,USGS,SF Payette R at Lowman,Payette,3790,44.08528,-115.62222,Boise,1.70501E+11,Kirkham Creek-South Fork Payette River,6/1/1941,1/1/2100
+13310700,ID,USGS,SF Salmon R nr Krassel Ranger Station,Salmon,3750,44.98694,-115.725,Valley,1.70602E+11,Camp Creek-South Fork Salmon River,10/1/1966,1/1/2100
+10032000,WY,USGS,Smiths Fk nr Border,Bear,6650,42.29327,-110.87241,Lincoln,1.60101E+11,Bear River-Taylor Creek,1/1/1942,1/1/2100
+13022500,WY,USGS,Snake R ab Reservoir nr Alpine,Snake Basin Above Palisades,5730,43.19611,-110.88944,Lincoln,1.70401E+11,Upper Little Greys River,3/16/1937,1/1/2100
+13010065,WY,USGS,Snake R at Flagg Ranch,Snake Basin Above Palisades,6802,44.09889,-110.6675,Teton,1.70401E+11,Upper Pacific Creek,10/1/1983,1/1/2100
+13154500,ID,USGS,Snake R at King Hill,,2492,43.00222,-115.2025,Elmore,1.70501E+11,Frog Hollow-Snake River,1/1/1909,1/1/2100
+13077000,ID,USGS,Snake R at Neeley,,4242,42.7675,-112.87944,Power,1.70402E+11,Ferry Hollow-Snake River,1/1/1907,1/1/2100
+13269000,ID,USGS,Snake R at Weiser,,2087,44.24556,-116.98083,Washington,1.70502E+11,Bridge Gulch-Snake River,10/1/1910,1/1/2100
+13069500,ID,USGS,Snake R nr Blackfoot,Willow-Blackfoot-Portneuf,4401,43.12528,-112.51889,Bingham,1.70402E+11,Jeff Cabin Creek-American Falls Reservoir,1/1/1910,1/1/2100
+13037500,ID,USGS,Snake R nr Heise,,5015,43.6125,-111.66,Bonneville,1.70402E+11,Kelly Canyon-Snake River,10/1/1910,1/1/2100
+13032500,ID,USGS,Snake R nr Irwin,,5353,43.35083,-111.21889,Bonneville,1.70401E+11,Upper Fall Creek,1/1/1935,1/1/2100
+13011000,WY,USGS,Snake R nr Moran,Snake Basin Above Palisades,6760,43.85833,-110.58583,Teton,1.70401E+11,Lower Jackson Lake,10/1/1903,1/1/2100
+13172500,ID,USGS,Snake R nr Murphy,,2271,43.29183,-116.42095,Ada,1.70501E+11,Halveson Lake-Snake River,8/29/1912,1/1/2100
+13060000,ID,USGS,Snake R nr Shelley,,4599,43.41306,-112.135,Bingham,1.70402E+11,Town of Shelley-Snake River,1/1/1915,1/1/2100
+13062500,ID,USGS,Snake River at Blackfoot ID,,4490,43.18333,-112.36667,Bingham,1.70402E+11,Blackfoot River,1/1/1978,1/1/2100
+13186000,ID,USGS,"South Fork Boise R nr Featherville, ID",Boise,4218,43.5,-115.3,Elmore,1.70501E+11,Goat Creek-South Fork Boise River,1/1/1945,1/1/2100
+13338500,ID,USGS,"South Fork Clearwater River at Stites, I",Clearwater,1300,46.08333,-115.96667,Idaho,1.70603E+11,Rabbit Creek-South Fork Clearwater River,10/1/1911,1/1/2100
+12419000,ID,USGS,Spokane R nr Post Falls,,2003,47.70306,-116.97778,Kootenai,1.70103E+11,Cable Creek-Spokane River,1/1/1913,1/1/2100
+12414500,ID,USGS,St. Joe R at Calder,Coeur DAlene-St. Joe,2172,47.27464,-116.18905,Shoshone,1.70103E+11,Hugus Creek-St Joe River,1/1/1911,1/1/2100
+12414900,ID,USGS,"St. Maries River Near Santa, ID",Coeur DAlene-St. Joe,2574,47.16667,-116.48333,Benewah,1.70103E+11,Lower Santa Creek,10/1/1965,1/1/2100
+13052200,ID,USGS,Teton R nr Driggs,Henrys Fork-Teton,5953,43.78194,-111.20917,Teton,1.70402E+11,Swanner Creek,10/1/1961,1/1/2100
+13055000,ID,USGS,Teton R nr St Anthony,Henrys Fork-Teton,4880,43.92722,-111.61389,Fremont,1.70402E+11,Teton River,1890-01-01,1/1/2100
+13083000,ID,USGS,Trapper Ck nr Oakley,Goose Creek,4820,42.16583,-113.98361,Cassia,1.70402E+11,Lower Trapper Creek,5/1/1911,1/1/2100
+13266000,ID,USGS,Weiser R nr Weiser,Weiser,2206,44.27,-116.77222,Washington,1.70501E+11,Bear Creek-Weiser River,10/1/1909,1/1/2100
+13258500,ID,USGS,"Weiser River Near Cambridge, ID",Weiser,2647,44.56667,-116.63333,Washington,1.70501E+11,Bacon Creek-Weiser River,4/1/1939,1/1/2100
+13058000,ID,USGS,Willow Ck nr Ririe,Willow-Blackfoot-Portneuf,4950,43.58333,-111.74611,Bonneville,1.70402E+11,Upper Willow Creek,4/1/1903,1/1/2100
+13140900,ID,USGS,Willow Creek nr Bellevue,Big Wood,4900,43.32278,-114.32417,Blaine,1.70402E+11,Poverty Flat-Big Wood River,10/1/1996,1/1/2100
+,,,Yaak R nr Troy,,,,,,,,,
