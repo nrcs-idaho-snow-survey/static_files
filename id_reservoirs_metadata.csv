@@ -1,33 +1,33 @@
 ﻿site_id,basin,reservoir,state,county,config,elevation,HUC
-13076500,Upper Snake,American Falls Reservoir,ID,Power,BOR,"4,356",1.70E+11
-13190000,"West Central, Boise",Anderson Ranch Reservoir,ID,Elmore,BOR,"4,196",1.71E+11
-13194000,"West Central, Boise",Arrowrock Reservoir,ID,Elmore,BOR,"3,219",1.71E+11
-10055500,Bear,Bear Lake,ID,Bear Lake,BOR,"5,900",1.60E+11
-13065000,Upper Snake,Blackfoot Reservoir,ID,Caribou,BOR,"6,100",1.70E+11
-13289700,South Snake,Brownlee Reservoir,ID,Washington,BOR,"2,070",1.71E+11
-13244500,"West Central, Payette",Cascade Reservoir,ID,Valley,BOR,"4,787",1.71E+11
-13236000,"West Central, Payette",Deadwood Reservoir,ID,Valley,BOR,"5,334",1.71E+11
-13340950,Clearwater,Dworshak Reservoir,ID,Clearwater,BOR,"1,599",1.71E+11
-12371550,Panhandle,Flathead Lake,MT,,BOR,,
-13046500,Upper Snake,Grassy Lake,WY,Teton,BOR,"7,265",1.70E+11
-13039000,Upper Snake,Henrys Lake,ID,Fremont,BOR,"6,457",1.70E+11
-12362000,Panhandle,Hungry Horse Lake,MT,,BOR,,
-13042000,Upper Snake,Island Park Reservoir,ID,Fremont,BOR,"6,302",1.70E+11
-13010500,Upper Snake,Jackson Lake,WY,Teton,BOR,"6,770",1.70E+11
-12415500,Panhandle,Lake Coeur d' Alene,ID,Kootenai,BOR,"2,100",1.70E+11
-13203500,"West Central, Boise",Lake Lowell,ID,Canyon,BOR,"2,531",1.71E+11
-13182500,South Snake,Lake Owyhee,OR,,BOR,,
-12392500,Panhandle,Lake Pend Oreille,ID,Bonner,BOR,"2,063",1.70E+11
-13148200,Wood and Lost,Little Wood Reservoir,ID,Blaine,BOR,"5,100",1.70E+11
-13201500,"West Central, Boise",Lucky Peak Reservoir,ID,Ada,BOR,"3,060",1.71E+11
-13126000,Wood and Lost,Mackay Reservoir,ID,Custer,BOR,"6,061",1.70E+11
-13142000,Wood and Lost,Magic Reservoir,ID,Blaine,BOR,"4,797",1.70E+11
-13266900,"West Central, Payette",Mann Creek Reservoir,ID,Washington,BOR,"3,200",1.71E+11
-10069500,Bear,Montpelier Reservoir,ID,Bear Lake,BOR,"6,210",1.60E+11
-12391300,Panhandle,Noxon Rapids Reservoir,MT,,BOR,,
-13083500,South Snake,Oakley Reservoir,ID,Cassia,BOR,"4,766",1.70E+11
+13076500,,American Falls Reservoir,ID,Power,BOR,"4,356",1.70E+11
+13190000,Boise,Anderson Ranch Reservoir,ID,Elmore,BOR,"4,196",1.71E+11
+13194000,Boise,Arrowrock Reservoir,ID,Elmore,BOR,"3,219",1.71E+11
+10055500,,Bear Lake,ID,Bear Lake,BOR,"5,900",1.60E+11
+13065000,,Blackfoot Reservoir,ID,Caribou,BOR,"6,100",1.70E+11
+13289700,,Brownlee Reservoir,ID,Washington,BOR,"2,070",1.71E+11
+13244500,,Cascade Reservoir,ID,Valley,BOR,"4,787",1.71E+11
+13236000,,Deadwood Reservoir,ID,Valley,BOR,"5,334",1.71E+11
+13340950,,Dworshak Reservoir,ID,Clearwater,BOR,"1,599",1.71E+11
+12371550,,Flathead Lake,MT,,BOR,,
+13046500,,Grassy Lake,WY,Teton,BOR,"7,265",1.70E+11
+13039000,,Henrys Lake,ID,Fremont,BOR,"6,457",1.70E+11
+12362000,,Hungry Horse Lake,MT,,BOR,,
+13042000,,Island Park Reservoir,ID,Fremont,BOR,"6,302",1.70E+11
+13010500,,Jackson Lake,WY,Teton,BOR,"6,770",1.70E+11
+12415500,,Lake Coeur d' Alene,ID,Kootenai,BOR,"2,100",1.70E+11
+13203500,,Lake Lowell,ID,Canyon,BOR,"2,531",1.71E+11
+13182500,,Lake Owyhee,OR,,BOR,,
+12392500,,Lake Pend Oreille,ID,Bonner,BOR,"2,063",1.70E+11
+13148200,,Little Wood Reservoir,ID,Blaine,BOR,"5,100",1.70E+11
+13201500,Boise,Lucky Peak Reservoir,ID,Ada,BOR,"3,060",1.71E+11
+13126000,,Mackay Reservoir,ID,Custer,BOR,"6,061",1.70E+11
+13142000,,Magic Reservoir,ID,Blaine,BOR,"4,797",1.70E+11
+13266900,,Mann Creek Reservoir,ID,Washington,BOR,"3,200",1.71E+11
+10069500,,Montpelier Reservoir,ID,Bear Lake,BOR,"6,210",1.60E+11
+12391300,,Noxon Rapids Reservoir,MT,,BOR,,
+13083500,,Oakley Reservoir,ID,Cassia,BOR,"4,766",1.70E+11
 13032450,Upper Snake,Palisades Reservoir,ID,Bonneville,BOR,"5,620",1.70E+11
-12393000,Panhandle,Priest Lake,ID,Bonner,BOR,"2,338",1.70E+11
+12393000,,Priest Lake,ID,Bonner,BOR,"2,338",1.70E+11
 13057950,Upper Snake,Ririe Reservoir,ID,Bonneville,BOR,"5,118",1.70E+11
-13106500,South Snake,Salmon Falls Reservoir,ID,Twin Falls,BOR,"5,025",1.70E+11
-13174000,South Snake,Wild Horse Reservoir,NV,,BOR,,
+13106500,,Salmon Falls Reservoir,ID,Twin Falls,BOR,"5,025",1.70E+11
+13174000,,Wild Horse Reservoir,NV,,BOR,,
