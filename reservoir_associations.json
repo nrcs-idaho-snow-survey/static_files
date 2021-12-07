@@ -1,87 +1,96 @@
 {
-    "groupings": {
-        "Boise": {
-            "reservoirs": ["Anderson Ranch", "Arrowrock", "Lucky Peak"],
-            "labels": ["Boise", "Boise (Anderson Ranch, Arrowrock, Lucky Peak)"],
-            "baseflow months": [10, 11, 12, 1, 2, 3, 4],
-            "adequate irrigation supply": 1500,
-            "adjustment": [],
-            "header": []
-        },
-        "Upper Snake": {
-            "reservoirs": ["Palisades", "Ririe"],
-            "labels": ["Upper Snake", "Upper Snake (Palisades, Ririe)"],
-            "baseflow months": [10, 11, 12, 1, 2, 3, 4],
-            "adequate irrigation supply": 4400,
-            "adjustment": [],
-            "header": []
-        },
-        "Magic": {
-            "reservoirs": ["Magic"],
-            "labels": ["Big Wood", "Big Wood (Magic)"],
-            "baseflow months": [10, 11, 12, 1, 2, 3, 4],
-            "adequate irrigation supply": 275,
-            "adjustment": [],
-            "header": []
-        },
-        "Little Wood": {
-            "reservoirs": ["Little Wood"],
-            "labels": ["Little Wood", "Little Wood (Little Wood)"],
-            "baseflow months": [10, 11, 12, 1, 2, 3],
-            "adequate irrigation supply": 60,
-            "adjustment": [],
-            "header": []
-        },
-        "Mackay": {
-            "reservoirs": ["Mackay"],
-            "labels": ["Big Lost", "Big Lost (Mackay)"],
-            "baseflow months": [10, 11, 12, 1, 2, 3, 4],
-            "adequate irrigation supply": 180,
-            "adjustment": [],
-            "header": []
-        },
-        "Oakley": {
-            "reservoirs": ["Oakley"],
-            "labels": ["Oakley", "Oakley (Oakley)"],
-            "baseflow months": [10, 11, 12, 1, 2, 3],
-            "adequate irrigation supply": 50,
-            "adjustment": [],
-            "header": []
-        },
-        "Salmon Falls": {
-            "reservoirs": ["Salmon Falls"],
-            "labels": ["Salmon Falls", "Salmon Falls (Salmon Falls)"],
-            "baseflow months": [10, 11, 12, 1, 2, 3],
-            "adequate irrigation supply": 110,
-            "adjustment": [],
-            "header": []
-        },
-        "Lake Owyhee": {
-            "reservoirs": ["Lake Owyhee"],
-            "labels": ["Owyhee", "Owyhee (Lake Owyhee)"],
-            "baseflow months": [10, 11, 12, 1, 2],
-            "adequate irrigation supply": 575,
-            "adjustment": [],
-            "header": []
-        },   
-        "Bear Lake": {
-            "reservoirs": ["Bear Lake"],
-            "labels": ["Bear Lake", "Bear Lake (Bear Lake)"],
-            "baseflow months": [10, 11, 12, 1, 2, 3, 4],
-            "adequate irrigation supply": 280,
-            "adjustment": [],
-            "header": []
-        }
-    },
-    "order": [
-        "Boise", "Upper Snake", "Magic", "Little Wood", "Mackay", "Owyhee", 
-        "Bear Lake", "Salmon Falls", "Oakley"
-    ],
-    "water years": [
-        1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 
-        2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010,
-        2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020
-    ],
-    "calculations": ["median", "std"],
-    "convert to KAF": true
+  "order": [
+      "Upper Snake", "Bear Lake", "Boise", "Lake Owyhee", "Magic", "Little Wood", "Mackay", "Salmon Falls", "Oakley"
+  ],
+  "water years": [
+      1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000,
+      2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010,
+      2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020
+  ],
+  "calculations": ["median", "std"],
+  "convert to KAF": true,
+  "filter negatives": true,
+  "groupings": {
+      "Boise": {
+          "reservoirs": ["Anderson Ranch", "Arrowrock", "Lucky Peak"],
+          "labels": ["Boise", "Boise (Anderson Ranch, Arrowrock, Lucky Peak)"],
+          "baseflow months": [10, 11, 12, 1, 2, 3, 4],
+          "adequate irrigation supply": 1500,
+          "1991-2020 spring to summer streamflow": 1335,
+          "adjustment": [],
+          "header": []
+      },
+      "Upper Snake": {
+          "reservoirs": ["Palisades", "Ririe"],
+          "labels": ["Upper Snake", "Upper Snake (Palisades, Ririe)"],
+          "baseflow months": [10, 11, 12, 1, 2, 3, 4],
+          "adequate irrigation supply": 4400,
+          "1991-2020 spring to summer streamflow": 3849,
+          "adjustment": [],
+          "header": []
+      },
+      "Magic": {
+          "reservoirs": ["Magic"],
+          "labels": ["Big Wood", "Big Wood (Magic)"],
+          "baseflow months": [10, 11, 12, 1, 2, 3, 4],
+          "adequate irrigation supply": 275,
+          "1991-2020 spring to summer streamflow": 239,
+          "adjustment": [],
+          "header": []
+      },
+      "Little Wood": {
+          "reservoirs": ["Little Wood"],
+          "labels": ["Little Wood", "Little Wood (Little Wood)"],
+          "baseflow months": [10, 11, 12, 1, 2, 3],
+          "adequate irrigation supply": 60,
+          "1991-2020 spring to summer streamflow": 87,
+          "adjustment": [],
+          "header": []
+      },
+      "Mackay": {
+          "reservoirs": ["Mackay"],
+          "labels": ["Big Lost", "Big Lost (Mackay)"],
+          "baseflow months": [10, 11, 12, 1, 2, 3, 4],
+          "adequate irrigation supply": 180,
+          "1991-2020 spring to summer streamflow": 138,
+          "adjustment": [],
+          "header": []
+      },
+      "Oakley": {
+          "reservoirs": ["Oakley"],
+          "labels": ["Oakley", "Oakley (Oakley)"],
+          "baseflow months": [10, 11, 12, 1, 2, 3],
+          "adequate irrigation supply": 50,
+          "1991-2020 spring to summer streamflow": 27,
+          "adjustment": [],
+          "header": []
+      },
+      "Salmon Falls": {
+          "reservoirs": ["Salmon Falls"],
+          "labels": ["Salmon Falls", "Salmon Falls (Salmon Falls)"],
+          "baseflow months": [10, 11, 12, 1, 2, 3],
+          "adequate irrigation supply": 110,
+          "1991-2020 spring to summer streamflow": 79,
+          "adjustment": [],
+          "header": []
+      },
+      "Lake Owyhee": {
+          "reservoirs": ["Lake Owyhee"],
+          "labels": ["Owyhee", "Owyhee (Lake Owyhee)"],
+          "baseflow months": [10, 11, 12, 1, 2],
+          "adequate irrigation supply": 575,
+          "1991-2020 spring to summer streamflow": 533,
+          "adjustment": [],
+          "header": []
+      },
+      "Bear Lake": {
+          "reservoirs": ["Bear Lake"],
+          "labels": ["Bear Lake", "Bear Lake (Bear Lake)"],
+          "baseflow months": [10, 11, 12, 1, 2, 3],
+          "adequate irrigation supply": 280,
+          "1991-2020 spring to summer streamflow": 178,
+          "adjustment": [],
+          "header": []
+      }
+  }
 }
