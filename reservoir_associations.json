@@ -18,7 +18,8 @@
           "adequate irrigation supply": 1500,
           "1991-2020 spring to summer streamflow": 1335,
           "adjustment": [],
-          "header": []
+          "header": [],
+          "aws": "boise"
       },
       "Upper Snake": {
           "reservoirs": ["Palisades", "Ririe"],
@@ -27,7 +28,8 @@
           "adequate irrigation supply": 4400,
           "1991-2020 spring to summer streamflow": 3849,
           "adjustment": [],
-          "header": []
+          "header": [],
+          "aws": "snake_basin_above_palisades"
       },
       "Magic": {
           "reservoirs": ["Magic"],
@@ -36,7 +38,8 @@
           "adequate irrigation supply": 275,
           "1991-2020 spring to summer streamflow": 239,
           "adjustment": [],
-          "header": []
+          "header": [],
+          "aws": "big_wood"
       },
       "Little Wood": {
           "reservoirs": ["Little Wood"],
@@ -45,7 +48,8 @@
           "adequate irrigation supply": 60,
           "1991-2020 spring to summer streamflow": 87,
           "adjustment": [],
-          "header": []
+          "header": [],
+          "aws": "little_wood"
       },
       "Mackay": {
           "reservoirs": ["Mackay"],
@@ -54,7 +58,8 @@
           "adequate irrigation supply": 180,
           "1991-2020 spring to summer streamflow": 138,
           "adjustment": [],
-          "header": []
+          "header": [],
+          "aws": "big_lost"
       },
       "Oakley": {
           "reservoirs": ["Oakley"],
@@ -63,7 +68,8 @@
           "adequate irrigation supply": 50,
           "1991-2020 spring to summer streamflow": 27,
           "adjustment": [],
-          "header": []
+          "header": [],
+          "aws": "goose_creek"
       },
       "Salmon Falls": {
           "reservoirs": ["Salmon Falls"],
@@ -72,7 +78,8 @@
           "adequate irrigation supply": 110,
           "1991-2020 spring to summer streamflow": 79,
           "adjustment": [],
-          "header": []
+          "header": [],
+          "aws": "salmon_falls"
       },
       "Lake Owyhee": {
           "reservoirs": ["Lake Owyhee"],
@@ -81,7 +88,8 @@
           "adequate irrigation supply": 575,
           "1991-2020 spring to summer streamflow": 533,
           "adjustment": [],
-          "header": []
+          "header": [],
+          "aws": "owyhee"
       },
       "Bear Lake": {
           "reservoirs": ["Bear Lake"],
@@ -90,7 +98,8 @@
           "adequate irrigation supply": 280,
           "1991-2020 spring to summer streamflow": 178,
           "adjustment": [],
-          "header": []
+          "header": [],
+          "aws": "bear"
       }
   }
 }
