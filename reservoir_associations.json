@@ -13,7 +13,8 @@
   "groupings": {
       "Boise": {
           "reservoirs": ["Anderson Ranch", "Arrowrock", "Lucky Peak"],
-          "labels": ["Boise", "Boise (Anderson Ranch, Arrowrock, Lucky Peak)"],
+          "short label": "Boise",
+          "long label": "Boise (Anderson Ranch, Arrowrock, Lucky Peak)",
           "baseflow months": [10, 11, 12, 1, 2, 3, 4],
           "adequate irrigation supply": 1500,
           "1991-2020 spring to summer streamflow": 1335,
@@ -23,7 +24,8 @@
       },
       "Upper Snake": {
           "reservoirs": ["Palisades", "Ririe"],
-          "labels": ["Upper Snake", "Upper Snake (Palisades, Ririe)"],
+          "short label": "Upper Snake",
+          "long label": "Upper Snake (Palisades, Ririe)",
           "baseflow months": [10, 11, 12, 1, 2, 3, 4],
           "adequate irrigation supply": 4400,
           "1991-2020 spring to summer streamflow": 3849,
@@ -33,7 +35,8 @@
       },
       "Magic": {
           "reservoirs": ["Magic"],
-          "labels": ["Big Wood", "Big Wood (Magic)"],
+          "short label": "Big Wood",
+          "long label": "Big Wood (Magic)",
           "baseflow months": [10, 11, 12, 1, 2, 3, 4],
           "adequate irrigation supply": 275,
           "1991-2020 spring to summer streamflow": 239,
@@ -43,7 +46,8 @@
       },
       "Little Wood": {
           "reservoirs": ["Little Wood"],
-          "labels": ["Little Wood", "Little Wood (Little Wood)"],
+          "short label": "Little Wood",
+          "long label": "Little Wood Reservoir",
           "baseflow months": [10, 11, 12, 1, 2, 3],
           "adequate irrigation supply": 60,
           "1991-2020 spring to summer streamflow": 87,
@@ -53,7 +57,8 @@
       },
       "Mackay": {
           "reservoirs": ["Mackay"],
-          "labels": ["Big Lost", "Big Lost (Mackay)"],
+          "short label": "Big Lost",
+          "long label": "Big Lost (Mackay)",
           "baseflow months": [10, 11, 12, 1, 2, 3, 4],
           "adequate irrigation supply": 180,
           "1991-2020 spring to summer streamflow": 138,
@@ -63,7 +68,8 @@
       },
       "Oakley": {
           "reservoirs": ["Oakley"],
-          "labels": ["Oakley", "Oakley (Oakley)"],
+          "short label": "Oakley",
+          "long label": "Oakley Reservoir",
           "baseflow months": [10, 11, 12, 1, 2, 3],
           "adequate irrigation supply": 50,
           "1991-2020 spring to summer streamflow": 27,
@@ -73,7 +79,8 @@
       },
       "Salmon Falls": {
           "reservoirs": ["Salmon Falls"],
-          "labels": ["Salmon Falls", "Salmon Falls (Salmon Falls)"],
+          "short label": "Salmon Falls",
+          "long label": "Salmon Falls Reservoir",
           "baseflow months": [10, 11, 12, 1, 2, 3],
           "adequate irrigation supply": 110,
           "1991-2020 spring to summer streamflow": 79,
@@ -83,7 +90,8 @@
       },
       "Lake Owyhee": {
           "reservoirs": ["Lake Owyhee"],
-          "labels": ["Owyhee", "Owyhee (Lake Owyhee)"],
+          "short label": "Owyhee",
+          "long label": "Owyhee (Lake Owyhee)",
           "baseflow months": [10, 11, 12, 1, 2],
           "adequate irrigation supply": 575,
           "1991-2020 spring to summer streamflow": 533,
@@ -93,7 +101,8 @@
       },
       "Bear Lake": {
           "reservoirs": ["Bear Lake"],
-          "labels": ["Bear Lake", "Bear Lake (Bear Lake)"],
+          "short label": "Bear Lake",
+          "long label": "Bear Lake",
           "baseflow months": [10, 11, 12, 1, 2, 3],
           "adequate irrigation supply": 280,
           "1991-2020 spring to summer streamflow": 178,
