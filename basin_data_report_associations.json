@@ -1,0 +1,132 @@
+{
+  "basin data report":{
+    "basins":{
+      "Bear": {
+        "forecast": [],
+        "reservoirs": ["Bear"],
+        "snowpack": ["Bear Lake", "Cub", "Malad", "Mink", "Smiths-Thomas Forks", "Bear Total"],
+        "precip": []
+      },
+      "Big Lost": {
+        "forecast": [],
+        "reservoirs": ["Big Lost"],
+        "snowpack": ["Big Lost ab Mackay", "Big Lost Total"],
+        "precip": []
+      },
+      "Big Wood": {
+        "forecast": [],
+        "reservoirs": ["Big Wood"],
+        "snowpack": ["Big Wood ab Hailey", "Camas", "Big Wood Total"],
+        "precip": []
+      },
+      "Birch-Medicine Lodge-Beaver-Camas": {
+        "forecast": [],
+        "reservoirs": ["Birch-Medicine Lodge-Beaver-Camas"],
+        "snowpack": ["Birch-Medicine Lodge", "Camas-Beaver", "Birch-Medicine Lodge-Beaver-Camas Total"],
+        "precip": []
+      },
+      "Boise": {
+        "forecast": [],
+        "reservoirs": ["Boise"],
+        "snowpack": ["Mores", "North and Middle Fork Boise", "South Fork Boise", "Boise Total"],
+        "precip": []
+      },
+      "Bruneau": {
+        "forecast": [],
+        "reservoirs": [],
+        "snowpack": ["Bruneau Total"],
+        "precip": []
+      },
+      "Clearwater": {
+        "forecast": [],
+        "reservoirs": ["Clearwater"],
+        "snowpack": ["Lochsa", "North Fork Clearwater", "Selway", "South Fork Clearwater", "Clearwater Total"],
+        "precip": []
+      },
+      "Coeur D'Alene-St. Joe": {
+        "forecast": [],
+        "reservoirs": ["Coeur D'Alene-St. Joe"],
+        "snowpack": ["Coeur D'Alene", "St. Joe", "Coeur D'Alene-St. Joe Total"],
+        "precip": []
+      },
+      "Goose Creek": {
+        "forecast": [],
+        "reservoirs": ["Goose Creek"],
+        "snowpack": ["Goose-Trapper", "Goose Creek Total"],
+        "precip": []
+      },
+      "Henrys Fork-Teton": {
+        "forecast": [],
+        "reservoirs": ["Henrys Fork-Teton"],
+        "snowpack": ["Henrys Fork-Falls River", "Teton", "Henrys Fork-Teton Total"],
+        "precip": []
+      },
+      "Little Lost": {
+        "forecast": [],
+        "reservoirs": [],
+        "snowpack": ["Little Lost Total"],
+        "precip": []
+      },
+      "Little Wood": {
+        "forecast": [],
+        "reservoirs": ["Little Wood"],
+        "snowpack": ["Fish", "Little Wood ab Resv", "Little Wood Total"],
+        "precip": []
+      },
+      "Owyhee": {
+        "forecast": [],
+        "reservoirs": ["Owyhee"],
+        "snowpack": ["Upper Owyhee", "Owyhee Total"],
+        "precip": []
+      },
+      "Payette": {
+        "forecast": [],
+        "reservoirs": ["Payette"],
+        "snowpack": ["North Fork Payette", "South Fork Payette", "Payette Total"],
+        "precip": []
+      },
+      "Pend Oreille-Kootenai": {
+        "forecast": [],
+        "reservoirs": ["Pend Oreille-Kootenai"],
+        "snowpack": ["Lower Kootenai", "Moyie", "Pend Oreille Lake", "Priest", "Pend Oreille-Kootenai Total"],
+        "precip": []
+      },
+      "Raft": {
+        "forecast": [],
+        "reservoirs": [],
+        "snowpack": ["Raft Total"],
+        "precip": []
+      },
+      "Salmon": {
+        "forecast": [],
+        "reservoirs": [],
+        "snowpack": ["Little Salmon", "Lower-Middle Salmon", "Middle Fork Salmon", "Salmon ab Salmon", "South Fork Salmon", "Salmon Total"],
+        "precip": []
+      },
+      "Salmon Falls": {
+        "forecast": [],
+        "reservoirs": ["Salmon Falls"],
+        "snowpack": ["Salmon Falls Total"],
+        "precip": []
+      },
+      "Snake Basin Above Palisades": {
+        "forecast": [],
+        "reservoirs": ["Snake Basin Above Palisades"],
+        "snowpack": ["Buffalo Fork", "Greys", "Gros Ventre", "Hoback", "Pacific", "Salt", "Snake ab Jackson Lake", "Snake Basin Above Palisades Total"],
+        "precip": []
+      },
+      "Weiser": {
+        "forecast": [],
+        "reservoirs": ["Weiser"],
+        "snowpack": ["Mann", "Weiser Total"],
+        "precip": []
+      },
+      "Willow-Blackfoot-Portneuf": {
+        "forecast": [],
+        "reservoirs": ["Willow-Blackfoot-Portneuf"],
+        "snowpack": ["Blackfoot", "Portneuf", "Willow", "Willow-Blackfoot-Portneuf Total"],
+        "precip": []
+      }
+    }
+  }
+}
