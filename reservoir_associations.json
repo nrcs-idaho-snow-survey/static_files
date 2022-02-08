@@ -18,7 +18,7 @@
           "baseflow months": [10, 11, 12, 1, 2, 3, 4],
           "adequate irrigation supply": 1500,
           "1991-2020 spring to summer average streamflow": 1340,
-          "1991-2020 spring to summer average streamflow": 1220,
+          "1991-2020 spring to summer median streamflow": 1220,
           "forecast point": "Boise R nr Boise",
           "forecast period": "Apr-Sep",
           "adjustment": [],
