@@ -26,9 +26,9 @@
           "aws": "boise"
       },
       "Upper Snake": {
-          "reservoirs": ["Palisades", "Ririe"],
+          "reservoirs": ["Palisades", "Jackson Lake"],
           "short label": "Upper Snake",
-          "long label": "Upper Snake (Palisades, Ririe)",
+          "long label": "Upper Snake (Palisades, Jackson Lake)",
           "baseflow months": [10, 11, 12, 1, 2, 3, 4],
           "adequate irrigation supply": 4400,
           "1991-2020 spring to summer average streamflow": 3849,
