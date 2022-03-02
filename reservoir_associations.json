@@ -21,7 +21,8 @@
           "1991-2020 spring to summer median streamflow": 1220,
           "forecast point": "Boise R nr Boise",
           "forecast period": "Apr-Sep",
-          "adjustment": [],
+          "apply end of baseflow adjustment": False,
+          "end of baseflow adjustment": 0,
           "header": [],
           "aws": "boise"
       },
@@ -35,7 +36,8 @@
           "1991-2020 spring to summer median streamflow": 3660,
           "forecast point": "Snake R nr Heise",
           "forecast period": "Apr-Sep",
-          "adjustment": [],
+          "apply end of baseflow adjustment": True,
+          "end of baseflow adjustment": 148.923,
           "header": [],
           "aws": "snake_basin_above_palisades"
       },
@@ -49,7 +51,8 @@
           "1991-2020 spring to summer median streamflow": 182,
           "forecast point": "Big Wood R bl Magic Dam",
           "forecast period": "Apr-Sep",
-          "adjustment": [],
+          "apply end of baseflow adjustment": False,
+          "end of baseflow adjustment": 0,
           "header": [],
           "aws": "big_wood"
       },
@@ -63,7 +66,8 @@
           "1991-2020 spring to summer median streamflow": 65,
           "forecast point": "Little Wood R nr Carey",
           "forecast period": "Mar-Sep",
-          "adjustment": [],
+          "apply end of baseflow adjustment": False,
+          "end of baseflow adjustment": 0,
           "header": [],
           "aws": "little_wood"
       },
@@ -77,7 +81,8 @@
           "1991-2020 spring to summer median streamflow": 127,
           "forecast point": "Big Lost R bl Mackay Reservoir",
           "forecast period": "Apr-Sep",
-          "adjustment": [],
+          "apply end of baseflow adjustment": False,
+          "end of baseflow adjustment": 0,
           "header": [],
           "aws": "big_lost"
       },
@@ -91,7 +96,8 @@
           "1991-2020 spring to summer median streamflow": 24,
           "forecast point": "Oakley Reservoir Inflow",
           "forecast period": "Mar-Sep",
-          "adjustment": [],
+          "apply end of baseflow adjustment": False,
+          "end of baseflow adjustment": 0,
           "header": [],
           "aws": "goose_creek"
       },
@@ -105,7 +111,8 @@
           "1991-2020 spring to summer median streamflow": 66,
           "forecast point": "Salmon Falls Ck nr San Jacinto",
           "forecast period": "Mar-Sep",
-          "adjustment": [],
+          "apply end of baseflow adjustment": False,
+          "end of baseflow adjustment": 0,
           "header": [],
           "aws": "salmon_falls"
       },
@@ -119,7 +126,8 @@
           "1991-2020 spring to summer median streamflow": 450,
           "forecast point": "Owyhee R bl Owyhee Dam",
           "forecast period": "Feb-Sep",
-          "adjustment": [],
+          "apply end of baseflow adjustment": False,
+          "end of baseflow adjustment": 0,
           "header": [],
           "aws": "owyhee"
       },
@@ -133,7 +141,8 @@
           "1991-2020 spring to summer median streamflow": 122,
           "forecast point": "Bear R bl Stewart Dam",
           "forecast period": "Apr-Sep",
-          "adjustment": [],
+          "apply end of baseflow adjustment": False,
+          "end of baseflow adjustment": 0,
           "header": [],
           "aws": "bear"
       }
