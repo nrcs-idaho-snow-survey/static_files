@@ -37,7 +37,8 @@
           "forecast point": "Snake R nr Heise",
           "forecast period": "Apr-Sep",
           "apply end of baseflow adjustment": "True",
-          "end of baseflow adjustment": 148.923,
+          "_comment": "The value 148.923 offsets the drop in median storage in April in Upper Snake",
+          "end of baseflow adjustment": 350,
           "header": [],
           "aws": "snake_basin_above_palisades"
       },
