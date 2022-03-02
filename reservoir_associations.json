@@ -38,7 +38,7 @@
           "forecast period": "Apr-Sep",
           "apply end of baseflow adjustment": "True",
           "_comment": "The value 148.923 offsets the drop in median storage in April in Upper Snake",
-          "end of baseflow adjustment": 350,
+          "end of baseflow adjustment": 275,
           "header": [],
           "aws": "snake_basin_above_palisades"
       },
