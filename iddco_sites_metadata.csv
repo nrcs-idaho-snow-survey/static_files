@@ -47,7 +47,7 @@
 493,Giveout,Bear,11G33S,6930,2,12S,45E,SNTL,Montpelier,Bear Lake,Meade Peak,Caribou NF,A,-82,ID,-111.1663,42.4132
 496,Graham Guard Sta.,"Boise, West Central, Central",15F14S,5690,9,7N,10E,SNTL,North Fork Boise,Elmore,Swanholm Peak,Boise NF,A,-81,ID,-115.2739,43.9538
 497,Granite Creek,Snake Above Palisades,,6770,,,,,,,,,,,WY,,
-499,Grassy Lake,Snake Above Palisades,,7265,,,,,,,,,,,WY,,
+499,Grassy Lake,"Snake Above Palisades, Snake Above Jackson Lake",,7265,,,,,,,,,,,WY,,
 506,Gros Ventre Summit,Snake Above Palisades,,8750,,,,,,,,,,,WY,,
 944,Gunsight Pass,Snake Above Palisades,,9820,,,,,,,,,,,WY,,
 516,Hawkins Lake,Pend Oreille-Kootenai,,6450,,,,SNTL,,,,,,,MT,,
@@ -69,7 +69,7 @@
 568,Lakeview Ridge,"Birch, Wood and Lost",,7400,,,,SNTL,,,,,,,MT,,
 573,Laurel Draw,Owyhee,,6682,,,,SNTL,,,,,,,NV,,
 576,Lemhi Ridge,Salmon,,8100,,,,SNTL,,,,,,,MT,,
-577,Lewis Lake Divide,Snake Above Palisades,,7850,,,,,,,,,,,WY,,
+577,Lewis Lake Divide,"Snake Above Palisades, Snake Above Jackson Lake",,7850,,,,,,,,,,,WY,,
 579,Lily Lake,Bear,,9133,,,,SNTL,,,,,,,UT,,
 588,Lolo Pass,Clearwater,14C05S,5240,16,38N,15E,SNTL,Lochsa,Idaho,Lolo Hot Springs,Clearwater NF,A,-84,ID,-114.5807,46.6512
 1016,Long Valley,"Payette, West Central, Central",16E18S,4890,28,17N,3E,SNTL,Payette,Valley,Lake Fork,Private,A,-2,ID,-116.0888,44.7884
@@ -117,7 +117,7 @@
 752,Sherwin,"Coeur D'Alene-St. Joe, Clearwater",16C01S,3200,28,42N,1E,SNTL,St. Maries,Latah,Bechtel Butte,Private,A,-83,ID,-116.3398,46.9503
 761,Slug Creek Divide,"Willow-Blackfoot-Portneuf, Bear",11G05S,7225,15,10S,44E,SNTL,Blackfoot,Caribou,Harrington Peak,Caribou NF,A,-81,ID,-111.298,42.5625
 926,Smiley Mountain,"Little Wood, Big Lost, Wood and Lost, Central",13F13S,9520,28,5N,22E,SNTL,Big Lost,Custer,Smiley Mountain,Challis NF,A,-2,ID,-113.834,43.7272
-764,Snake River Station,Snake Above Palisades,,6920,,,,SNTL,,,,,,,WY,,
+764,Snake River Station,"Snake Above Palisades, Snake Above Jackson Lake",,6920,,,,SNTL,,,,,,,WY,,
 769,Soldier R.S.,"Big Wood, Wood and Lost, Central",14F11S,5740,29,2N,14E,SNTL,Big Wood,Camas,Phillips,Sawtooth NF,A,-87,ID,-114.8269,43.4841
 770,Somsen Ranch,"Willow-Blackfoot-Portneuf, Snake Above Palisades",11G01S,6800,25,5S,43E,SNTL,Willow,Caribou,Wayan East,Private,A,-81,ID,-111.3593,42.9528
 774,South Mountain,Owyhee,16G01S,6500,35,7S,5W,SNTL,Owyhee,Owyhee,Williams Creek,Private,A,-82,ID,-116.9004,42.7648
@@ -128,7 +128,7 @@
 803,Sunset,Coeur D'Alene-St. Joe,15B09S,5540,33,49N,5E,SNTL,Coeur d'Alene,Shoshone,Burke,Private,A,-82,ID,-115.8242,47.5555
 805,Swede Peak,"Little Wood, Wood and Lost, Central",13F09S,7640,4,3N,21E,SNTL,Little Wood,Blaine,Star Hope Mine,Sawtooth NF,A,-81,ID,-113.9689,43.626
 811,Taylor Canyon,Owyhee,,6325,,,,SNTL,,,,,,,NV,,
-816,Thumb Divide,Snake Above Palisades,,7980,,,,SNTL,,,,,,,WY,,
+816,Thumb Divide,"Snake Above Palisades, Snake Above Jackson Lake",,7980,,,,SNTL,,,,,,,WY,,
 1136,Toe Jam,Owyhee,,7690,,,,SNTL,,,,,,,NV,,
 822,Togwotee Pass,Snake Above Palisades,,9580,,,,SNTL,,,,,,,WY,,
 823,Tony Grove Lake,Bear,,8474,,,,SNTL,,,,,,,UT,,
@@ -137,7 +137,7 @@
 831,Triple Peak,Snake Above Palisades,,8500,,,,SNTL,,,,,,,WY,,
 835,Twelvemile Creek,Clearwater,,5600,,,,SNTL,,,,,,,MT,,
 836,Twin Lakes,Clearwater,,6400,,,,SNTL,,,,,,,MT,,
-837,Two Ocean Plateau,Snake Above Palisades,,9240,,,,SNTL,,,,,,,WY,,
+837,Two Ocean Plateau,"Snake Above Palisades, Snake Above Jackson Lake",,9240,,,,SNTL,,,,,,,WY,,
 1098,Usu Doc Daniel,Bear,,8270,,,,SNTL,,,,,,,UT,,
 979,Van Wyck,"Payette, Weiser, West Central, Central",16E14S,4920,16,12N,1E,SNTL,Weiser,Washington,Twin Sisters,State,A,-1,ID,-116.3366,44.3767
 845,Vienna Mine,"Boise, Salmon, West Central, Central",14F04S,8960,1,5N,13E,SNTL,Salmon,Blaine,Frenchman Creek,Private,A,-82,ID,-114.8527,43.7994
@@ -147,3 +147,4 @@
 868,Willow Creek,Snake Above Palisades,,8080,,,,SNTL,,,,,,,WY,,
 871,Wilson Creek,"Bruneau, Salmon Falls",15G02S,7120,24,16S,12E,SNTL,Salmon Falls,Twin Falls,Curtis Draw,Private,A,-91,ID,-115.0028,42.0126
 878,Younts Peak,Snake Above Palisades,,8350,,,,SNTL,,,,,,,WY,,
+455,Dry Bread Pond,Bear,,8320,,,,,,,,,,,UT,,
