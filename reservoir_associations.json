@@ -40,7 +40,7 @@
           "_comment": "The value 148.923 offsets the drop in median storage in April in Upper Snake",
           "end of baseflow adjustment": 275,
           "header": [],
-          "aws": "snake_basin_above_palisades"
+          "aws": "snake_river_above_heise"
       },
       "Magic": {
           "reservoirs": ["Magic"],
