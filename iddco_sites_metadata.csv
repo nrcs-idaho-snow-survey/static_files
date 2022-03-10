@@ -1,149 +1,149 @@
-﻿site_id,site_name,basins,site_number,elev,sec,twp,rng,config,former association,county,quad_map,ownership,status,record,state,longitude,latitude
-306,Atlanta Summit,"Boise, West Central, Central",15F04S,7580,23,5N,10E,SNTL,Middle Fork Boise,Elmore,Atlanta West,Boise NF,A,-81,ID,-115.2391,43.7569
-312,Banner Summit,"Payette, Salmon, West Central, Central",15E11S,7040,11,11N,10E,SNTL,South Fork Payette,Boise,Banner Summit,Boise NF,A,-81,ID,-115.2345,44.3034
-314,Base Camp,Snake Above Palisades,,7060,,,,SNTL,,,,,,,WY,,
-318,Beagle Springs,"Birch, Wood and Lost",,8850,,,,SNTL,,,,,,,MT,,
-319,Bear Basin,"Payette, Salmon, West Central, Central",16E11S,5350,30,19N,3E,SNTL,Little Salmon,Adams,Meadows,Payette NF,A,-81,ID,-116.1429,44.9522
-320,Bear Canyon,"Little Wood, Big Lost, Wood and Lost, Central",13F03S,7900,22,5N,21E,SNTL,Big Lost,Custer,Star Hope Mine,Challis NF,A,-82,ID,-113.938,43.7437
-321,Bear Creek,Bruneau,,8040,,,,SNTL,,,,,,,NV,,
-323,Bear Mountain,Pend Oreille-Kootenai,16A08S,5400,9,57N,3E,SNTL,Clark Fork,Bonner,Benning Mountain,Kaniksu NF,A,-81,ID,-116.0745,48.3058
-992,Bear River RS,Bear,,8777,,,,SNTL,,,,,,,UT,,
-324,Bear Saddle,"Weiser, Payette, West Central, Central",16E10S,6180,30,15N,5W,SNTL,Mann,Washington,Sturgill Peak,Payette NF,A,-82,ID,-116.9801,44.6055
-336,Big Bend,"Owyhee, Bruneau",,6898,,,,SNTL,,,,,,,NV,,
-338,Big Creek Summit,"Payette, Salmon, West Central, Central",15E02S,6580,24,15N,5E,SNTL,Salmon,Valley,Gold Fork Rock,Boise NF,A,-82,ID,-115.7937,44.6264
-353,Blind Bull Sum,Snake Above Palisades,,8650,,,,SNTL,,,,,,,WY,,
-978,Bogus Basin,"Boise, Payette, West Central, Central",16F02S,6340,16,5N,3E,SNTL,Payette,Boise,Shafer Butte,Private,A,-99,ID,-116.0969,43.7638
-359,Bostetter R.S.,"Salmon Falls, Goose Creek",14G01S,7500,35,14S,19E,SNTL,Trapper,Cassia,Trapper Peak,Sawtooth NF,A,-82,ID,-114.1927,42.1646
-370,Brundage Reservoir,"Payette, Salmon, West Central, Central",16D09S,6250,30,20N,3E,SNTL,Little Salmon,Adams,Brundage Mountain,Payette NF,A,-87,ID,-116.1325,45.0432
-2151,Buffalo Jump,Bear,,6682,,,,SNTL,,,,,,,UT,,
-374,Bug Lake,Bear,,7987,,,,SNTL,,,,,,,UT,,
-376,Bunchgrass Meadow,Pend Oreille-Kootenai,,5000,,,,SNTL,,,,,,,WA,,
-1135,Burts Miller Ranch,Bear,,8000,,,,SNTL,,,,,,,UT,,
-382,Camas Creek Divide,"Boise, Big Wood, Wood and Lost, West Central, Central",15F09S,5710,11,2S,9E,SNTL,Big Wood,Elmore,Cat Creek Summit,Boise NF,A,-92,ID,-115.3453,43.2655
-392,Chalk Creek #1,Bear,,9171,,,,SNTL,,,,,,,UT,,
-895,Chocolate Gulch,"Big Wood, Wood and Lost, Central",14F19S,6440,15,5N,17E,SNTL,Big Wood,Blaine,Amber Lakes,Sawtooth NF,A,-93,ID,-114.4181,43.7685
-1204,Columbia Basin,Owyhee,,6483,,,,SNTL,,,,,,,NV,,
-411,Cool Creek,Clearwater,15C16S,6280,35,40N,9E,SNTL,North Fork Clearwater,Clearwater,Elizabeth Lake,Clearwater NF,A,-85,ID,-115.2957,46.7636
-419,Cottonwood Creek,Snake Above Palisades,,7670,,,,SNTL,,,,,,,WY,,
-1306,Couch Summit,"Big Wood, Boise, West Central, Wood and Lost, Central",,6776,,,,SNTL,,,,,,,ID,-114.802179,43.517577
-423,Cozy Cove,"Payette, West Central, Central",15E08S,5380,17,11N,7E,SNTL,Deadwood,Valley,Deadwood Reservoir,Boise NF,A,-81,ID,-115.6553,44.2878
-424,Crab Creek,"Birch, Wood and Lost, Central",11E37S,6860,21,13N,38E,SNTL,Camas-Beaver,Clark,Kilgore,Targhee NF,A,-82,ID,-111.9935,44.4367
-425,Crater Meadows,Clearwater,15C09S,5960,11,37N,9E,SNTL,North Fork Clearwater,Clearwater,Cook Mountain,Clearwater NF,A,-85,ID,-115.2885,46.5632
-439,Deadwood Summit,"Payette, Salmon, West Central, Central",15E04S,6860,13,14N,7E,SNTL,Deadwood,Valley,Tyndall Meadows,Boise NF,A,-81,ID,-115.563,44.5448
-450,Dollarhide Summit,"Boise, Big Wood, Wood and Lost, West Central, Central",14F08S,8420,9,3N,15E,SNTL,Big Wood,Blaine,Dollarhide Mountain,Sawtooth NF,A,-82,ID,-114.6746,43.6023
-460,East Rim Divide,Snake Above Palisades,,7930,,,,SNTL,,,,,,,WY,,
-466,Elk Butte,Clearwater,16C20S,5690,6,40N,3E,SNTL,North Fork Clearwater,Clearwater,Elk Butte,Clearwater NF,A,-83,ID,-116.1223,46.84
-471,Emigrant Summit,Bear,11G06S,7390,21,12S,42E,SNTL,Bear,Bear Lake,Midnight Mountain,Caribou NF,A,-82,ID,-111.5609,42.3606
-476,Fawn Creek,Owyhee,,7031,,,,SNTL,,,,,,,NV,,
-1305,Fish Ck,"Little Wood, Big Lost, Wood and Lost, Central",,6479,,,,SNTL,,,,,,,ID,-113.71928,43.555482
-484,Franklin Basin,Bear,11G32S,8170,7,16S,42E,SNTL,Cub,Franklin,Egan Basin,"Cache NF, admin. by Caribou NF",A,-82,ID,-111.6033,42.0511
-1262,Fry Canyon,Owyhee,,6798,,,,SNTL,,,,,,,NV,,
-489,Galena,"Big Wood, Salmon, Wood and Lost, Central",14F17S,7470,4,6N,15E,SNTL,Big Wood,Blaine,Horton Peak,Sawtooth NRA,A,-83,ID,-114.6727,43.878
-490,Galena Summit,"Big Wood, Salmon, Wood and Lost, Central",14F12S,8780,7,6N,15E,SNTL,Big Wood,Blaine,Horton Peak,Sawtooth NRA,A,-82,ID,-114.7136,43.875
-1114,Garden City Summit,Bear,,7705,,,,SNTL,,,,,,,UT,,
-492,Garfield R.S.,"Little Wood, Wood and Lost, Central",13F04S,6560,11,3N,21E,SNTL,Little Wood,Blaine,Muldoon,Sawtooth NF,A,-82,ID,-113.9308,43.6104
-918,Garver Creek,Pend Oreille-Kootenai,,4250,,,,SNTL,,,,,,,MT,,
-1151,George Creek,Raft,,8964,,,,SNTL,,,,,,,UT,,
-493,Giveout,Bear,11G33S,6930,2,12S,45E,SNTL,Montpelier,Bear Lake,Meade Peak,Caribou NF,A,-82,ID,-111.1663,42.4132
-496,Graham Guard Sta.,"Boise, West Central, Central",15F14S,5690,9,7N,10E,SNTL,North Fork Boise,Elmore,Swanholm Peak,Boise NF,A,-81,ID,-115.2739,43.9538
-497,Granite Creek,Snake Above Palisades,,6770,,,,SNTL,,,,,,,WY,,
-499,Grassy Lake,"Snake Above Palisades, Snake Above Jackson Lake, Henrys Fork-Teton",,7265,,,,SNTL,,,,,,,WY,,
-506,Gros Ventre Summit,Snake Above Palisades,,8750,,,,SNTL,,,,,,,WY,,
-944,Gunsight Pass,Snake Above Palisades,,9820,,,,SNTL,,,,,,,WY,,
-516,Hawkins Lake,Pend Oreille-Kootenai,,6450,,,,SNTL,,,,,,,MT,,
-517,Hayden Fork,Bear,,9130,,,,SNTL,,,,,,,UT,,
-520,Hemlock Butte,Clearwater,15C06S,5810,7,36N,7E,SNTL,North Fork Clearwater,Clearwater,Hemlock Butte,Clearwater NF,A,-84,ID,-115.6337,46.481
-988,Hidden Lake,Pend Oreille-Kootenai,16A12S,5040,17,64N,3W,SNTL,Kootenai,Boundary,Grass Mountain,Kaniksu NF,A,0,ID,-116.7575,48.8937
-524,Hilts Creek,"Big Lost, Little Lost, Wood and Lost, Central",13E27S,8000,15,8N,25E,SNTL,Little Lost,Custer,Warren Mountain,Challis NF,A,-81,ID,-113.4723,44.019
-530,Hoodoo Basin,"Coeur D'Alene-St. Joe, Clearwater",,6050,,,,SNTL,,,,,,,MT,,
-534,Howell Canyon,Raft,13G01S,7980,2,13S,24E,SNTL,Raft,Cassia,Conner Ridge,Sawtooth NF,A,-82,ID,-113.6156,42.3213
-535,Humboldt Gulch,Coeur D'Alene-St. Joe,15B21S,4250,2,48N,5E,SNTL,Coeur d'Alene,Shoshone,Burke,Coeur d'Alene NF,A,-82,ID,-115.7764,47.5318
-537,Hyndman,"Big Wood, Wood and Lost, Central",14F16S,7440,2,4N,19E,SNTL,Big Wood,Blaine,Hyndman Peak,Sawtooth NF,A,-82,ID,-114.1589,43.7106
-546,Island Park,Henrys Fork-Teton,11E10S,6290,28,13N,43E,SNTL,Henrys Fork,Fremont,Island Park Dam,Targhee NF,A,-82,ID,-111.3851,44.4203
-548,Jack Creek Upper,Owyhee,,7377,,,,SNTL,,,,,,,NV,,
-549,Jacks Peak,Owyhee,,8424,,,,SNTL,,,,,,,NV,,
-550,Jackson Peak,"Boise, Payette, West Central, Central",15E09S,7070,7,8N,9E,SNTL,North Fork Boise,Boise,Jackson Peak,Boise NF,A,-82,ID,-115.4432,44.0509
-1211,Jakes Creek,Salmon Falls,,7380,,,,SNTL,,,,,,,NV,,
-554,Kelley R.S.,Bear,,8180,,,,SNTL,,,,,,,WY,,
-1115,Klondike Narrows,Bear,,7250,,,,SNTL,,,,,,,UT,,
-568,Lakeview Ridge,"Birch, Wood and Lost",,7400,,,,SNTL,,,,,,,MT,,
-573,Laurel Draw,Owyhee,,6682,,,,SNTL,,,,,,,NV,,
-576,Lemhi Ridge,Salmon,,8100,,,,SNTL,,,,,,,MT,,
-577,Lewis Lake Divide,"Snake Above Palisades, Snake Above Jackson Lake",,7850,,,,SNTL,,,,,,,WY,,
-579,Lily Lake,Bear,,9133,,,,SNTL,,,,,,,UT,,
-588,Lolo Pass,Clearwater,14C05S,5240,16,38N,15E,SNTL,Lochsa,Idaho,Lolo Hot Springs,Clearwater NF,A,-84,ID,-114.5807,46.6512
-1016,Long Valley,"Payette, West Central, Central",16E18S,4890,28,17N,3E,SNTL,Payette,Valley,Lake Fork,Private,A,-2,ID,-116.0888,44.7884
-594,Lookout,Coeur D'Alene-St. Joe,15B02S,5140,4,47N,6E,SNTL,Coeur d'Alene,Shoshone,Lookout Pass,Coeur d'Alene NF,A,-83,ID,-115.7058,47.4579
-597,Loomis Park,Snake Above Palisades,,8240,,,,SNTL,,,,,,,WY,,
-600,Lost Lake,"Coeur D'Alene-St. Joe, Clearwater",15B14S,6110,9,43N,4E,SNTL,North Fork Clearwater,Shoshone,Widow Montain,BLM,A,-83,ID,-115.9607,47.081
-601,Lost-Wood Divide,"Big Wood, Big Lost, Wood and Lost, Central",14F03S,7900,25,6N,18E,SNTL,Big Lost,Blaine,Rock Roll Canyon,Sawtooth NF,A,-82,ID,-114.264,43.8243
-610,Magic Mountain,"Salmon Falls, Goose Creek",14G02S,6880,25,14S,18E,SNTL,Salmon Falls,Twin Falls,Pike Mountain,Sawtooth NF,A,-82,ID,-114.2866,42.1807
-620,Meadow Lake,Little Lost,13E18S,9150,23,13N,26E,SNTL,Lemhi,Lemhi,Gilmore,Salmon NF,A,-82,ID,-113.3182,44.4366
-1207,Merritt Mountain,"Owyhee, Bruneau",,6915,,,,SNTL,,,,,,,NV,,
-623,Mica Creek,Coeur D'Alene-St. Joe,16B14S,4750,19,44N,2E,SNTL,St. Joe,Shoshone,Crystal Peak,Private,A,-90,ID,-116.2666,47.1505
-627,Mill Creek Summit,"Salmon, Central",14E01S,8800,8,13N,17E,SNTL,Salmon,Custer,Bayhorse Lake,Challis NF,A,-82,ID,-114.4899,44.4721
-634,Monte Cristo,Bear,,8932,,,,SNTL,,,,,,,UT,,
-636,Moonshine,"Little Lost, Salmon, Wood and Lost, Central",13E06S,7440,31,13N,26E,SNTL,Little Lost,Lemhi,Iron Creek Point,Challis NF,A,-82,ID,-113.3981,44.4147
-638,Moose Creek,Salmon,13D16S,6200,14,27N,21E,SNTL,North Fork Salmon,Lemhi,Lost Trail Pass,Salmon NF,A,-82,ID,-113.9532,45.6701
-637,Mores Creek Summit,"Boise, West Central, Central",15F01S,6100,19,7N,7E,SNTL,North Fork Boise,Boise,Sunset Mountain,Boise NF,A,-83,ID,-115.6659,43.932
-639,Morgan Creek,"Salmon, Central",14E04S,7600,31,18N,19E,SNTL,Salmon,Lemhi,Black Mountain,Salmon NF,A,-82,ID,-114.269,44.8426
-989,Moscow Mountain,Clearwater,16C02S,4700,16,40N,3W,SNTL,Palouse,Latah,Moscow Mountain,ID Nature Cons.,A,0,ID,-116.8535,46.805
-645,Mosquito Ridge,"Pend Oreille-Kootenai, Coeur D'Alene-St. Joe",16A04S,5200,5,54N,2E,SNTL,Coeur d'Alene,Shoshone,Derr Point,Coeur d'Alene NF,A,-82,ID,-116.2305,48.0574
-650,Mountain Meadows,"Salmon, Clearwater",15D06S,6360,9,27N,10E,SNTL,Selway,Idaho,Boston Mountain,Nez Perce NF,A,-81,ID,-115.2289,45.6955
-654,Mud Flat,Owyhee,16G07S,5730,34,9S,2W,SNTL,Owyhee,Owyhee,Wagon Box Basin,Private,A,-82,ID,-116.5593,42.6004
-1053,Myrtle Creek,Pend Oreille-Kootenai,16A14S,3520,16,37N,1W,SNTL,Kootenai,Boundary,,Kaniksu NF,A,-4,ID,-116.4631,48.7226
-662,Nez Perce Camp,Clearwater,,5650,,,,SNTL,,,,,,,MT,,
-1272,Oneil Creek,"Bruneau, Salmon Falls",,6520,,,,SNTL,,,,,,,NV,,
-677,Oxford Spring,"Willow-Blackfoot-Portneuf, Bear",12G18S,6740,27,13S,37E,SNTL,Malad,Oneida,Malad Summit,Caribou NF,A,-81,ID,-112.1252,42.2603
-1299,Pebble Creek,"Willow-Blackfoot-Portneuf, Portneuf, Upper Snake",,7797,,,,SNTL,,,,,,,ID,-112.108375,42.766393
-689,Phillips Bench,Snake Above Palisades,,8200,,,,SNTL,,,,,,,WY,,
-1142,Pierce R.S.,Clearwater,15C05S,3080,2,36N,5E,SNTL,Clearwater,Clearwater,Pierce,Clearwater NF,A,-10,ID,-115.7957,46.496
-695,Pine Creek Pass,"Snake Above Palisades, Henrys Fork-Teton",11F02S,6720,24,3N,44E,SNTL,Teton,Teton,Fourth of July Peak,Targhee NF,A,-89,ID,-111.2116,43.57
-698,Pole Creek R.S.,"Bruneau, Salmon Falls",,8360,,,,SNTL,,,,,,,NV,,
-704,Prairie,"Boise, West Central, Central",15F06S,4800,13,2N,7E,SNTL,South Fork Boise,Elmore,Prairie,Private,A,-82,ID,-115.573,43.5051
-707,Quartz Peak,Pend Oreille-Kootenai,,4700,,,,SNTL,,,,,,,WA,,
-2029,Reynolds Creek,Owyhee,16F08S,5600,32,1S,4W,SNTL,Owyhee,Owyhee,Soldier Cap,Private,A,,ID,-116.8431,43.2886
-727,Saddle Mountain,Salmon,,7940,,,,SNTL,,,,,,,MT,,
-730,Salt River Summit,"Snake Above Palisades, Bear",,7640,,,,SNTL,,,,,,,WY,,
-735,Savage Pass,Clearwater,14C04S,6170,18,36N,15E,SNTL,Lochsa,Idaho,Grave Peak,Clearwater NF,A,-84,ID,-114.6333,46.4663
-915,Schwartz Lake,"Salmon, Central",13E16S,8540,34,18N,22E,SNTL,Lemhi,Lemhi,Lem Peak,Salmon NF,A,-96,ID,-113.8373,44.8462
-738,Schweitzer Basin,Pend Oreille-Kootenai,16A10S,6090,18,58N,2W,SNTL,Pend Oreille,Bonner,Mount Casey,Private,A,-82,ID,-116.6392,48.3743
-740,Secesh Summit,"Payette, Salmon, West Central, Central",15D01S,6520,4,21N,4E,SNTL,North Fork Payette,Valley,Victor Peak,Payette NF,A,-82,ID,-115.9731,45.1885
-741,Sedgwick Peak,"Willow-Blackfoot-Portneuf, Bear",11G30S,7850,25,10S,38E,SNTL,Portneuf,Bannock,Sedgwick Peak,Private,A,-89,ID,-111.9564,42.525
-746,Seventysix Creek,Bruneau,,7350,,,,SNTL,,,,,,,NV,,
-747,Shanghi Summit,Clearwater,15C04S,4570,7,37N,6E,SNTL,North Fork Clearwater,Clearwater,French Mountain,Private,A,-83,ID,-115.7421,46.5661
-749,Sheep Mountain,Willow-Blackfoot-Portneuf,11F11S,6570,30,2S,41E,SNTL,Willow,Bingham,Long Valley,Private,A,-84,ID,-111.6878,43.2093
-752,Sherwin,"Coeur D'Alene-St. Joe, Clearwater",16C01S,3200,28,42N,1E,SNTL,St. Maries,Latah,Bechtel Butte,Private,A,-83,ID,-116.3398,46.9503
-761,Slug Creek Divide,"Willow-Blackfoot-Portneuf, Bear",11G05S,7225,15,10S,44E,SNTL,Blackfoot,Caribou,Harrington Peak,Caribou NF,A,-81,ID,-111.298,42.5625
-926,Smiley Mountain,"Little Wood, Big Lost, Wood and Lost, Central",13F13S,9520,28,5N,22E,SNTL,Big Lost,Custer,Smiley Mountain,Challis NF,A,-2,ID,-113.834,43.7272
-764,Snake River Station,"Snake Above Palisades, Snake Above Jackson Lake",,6920,,,,SNTL,,,,,,,WY,,
-769,Soldier R.S.,"Big Wood, Wood and Lost, Central",14F11S,5740,29,2N,14E,SNTL,Big Wood,Camas,Phillips,Sawtooth NF,A,-87,ID,-114.8269,43.4841
-770,Somsen Ranch,"Willow-Blackfoot-Portneuf, Snake Above Palisades",11G01S,6800,25,5S,43E,SNTL,Willow,Caribou,Wayan East,Private,A,-81,ID,-111.3593,42.9528
-774,South Mountain,Owyhee,16G01S,6500,35,7S,5W,SNTL,Owyhee,Owyhee,Williams Creek,Private,A,-82,ID,-116.9004,42.7648
-779,Spring Creek Divide,"Snake Above Palisades, Bear",,9000,,,,SNTL,,,,,,,WY,,
-782,Squaw Flat,"Payette, Weiser, Salmon, West Central, Central",16E05S,6240,32,17N,2E,SNTL,Weiser,Adams,No Business Mountain,Payette NF,A,-82,ID,-116.2486,44.7708
-1203,Stag Mountain,Bruneau,,7640,,,,SNTL,,,,,,,NV,,
-792,Stickney Mill,"Big Lost, Wood and Lost, Central",14F02S,7430,9,6N,19E,SNTL,Big Lost,Custer,Phi Kappa Mountain,Challis NF,A,-82,ID,-114.209,43.8612
-803,Sunset,Coeur D'Alene-St. Joe,15B09S,5540,33,49N,5E,SNTL,Coeur d'Alene,Shoshone,Burke,Private,A,-82,ID,-115.8242,47.5555
-805,Swede Peak,"Little Wood, Wood and Lost, Central",13F09S,7640,4,3N,21E,SNTL,Little Wood,Blaine,Star Hope Mine,Sawtooth NF,A,-81,ID,-113.9689,43.626
-811,Taylor Canyon,Owyhee,,6325,,,,SNTL,,,,,,,NV,,
-816,Thumb Divide,"Snake Above Palisades, Snake Above Jackson Lake",,7980,,,,SNTL,,,,,,,WY,,
-1136,Toe Jam,Owyhee,,7690,,,,SNTL,,,,,,,NV,,
-822,Togwotee Pass,Snake Above Palisades,,9580,,,,SNTL,,,,,,,WY,,
-823,Tony Grove Lake,Bear,,8474,,,,SNTL,,,,,,,UT,,
-828,Trial Lake,Bear,,9992,,,,SNTL,,,,,,,UT,,
-830,Trinity Mountain,"Boise, West Central, Central",15F05S,7770,6,3N,9E,SNTL,Middle Fork Boise,Elmore,Little Trinity Lake,Boise NF,A,-81,ID,-115.4382,43.629
-831,Triple Peak,Snake Above Palisades,,8500,,,,SNTL,,,,,,,WY,,
-835,Twelvemile Creek,Clearwater,,5600,,,,SNTL,,,,,,,MT,,
-836,Twin Lakes,Clearwater,,6400,,,,SNTL,,,,,,,MT,,
-837,Two Ocean Plateau,"Snake Above Palisades, Snake Above Jackson Lake",,9240,,,,SNTL,,,,,,,WY,,
-1098,Usu Doc Daniel,Bear,,8270,,,,SNTL,,,,,,,UT,,
-979,Van Wyck,"Payette, Weiser, West Central, Central",16E14S,4920,16,12N,1E,SNTL,Weiser,Washington,Twin Sisters,State,A,-1,ID,-116.3366,44.3767
-845,Vienna Mine,"Boise, Salmon, West Central, Central",14F04S,8960,1,5N,13E,SNTL,Salmon,Blaine,Frenchman Creek,Private,A,-82,ID,-114.8527,43.7994
-855,West Branch,"Weiser, Salmon, West Central, Central",16D08S,5560,15,20N,1W,SNTL,Weiser,Adams,Railroad Saddle,Payette NF,A,-83,ID,-116.4541,45.0722
-860,White Elephant,Henrys Fork-Teton,11E36S,7710,17,14N,43E,SNTL,Henrys Fork,Fremont,Sawtell Peak,Targhee NF,A,-83,ID,-111.4109,44.5327
-867,Wildhorse Divide,Willow-Blackfoot-Portneuf,12G17S,6490,4,8S,34E,SNTL,Portneuf,Bannock,Pocatello South,Caribou NF,A,-86,ID,-112.4778,42.7574
-868,Willow Creek,Snake Above Palisades,,8080,,,,SNTL,,,,,,,WY,,
-871,Wilson Creek,"Bruneau, Salmon Falls",15G02S,7120,24,16S,12E,SNTL,Salmon Falls,Twin Falls,Curtis Draw,Private,A,-91,ID,-115.0028,42.0126
-878,Younts Peak,Snake Above Palisades,,8350,,,,SNTL,,,,,,,WY,,
-455,Dry Bread Pond,Bear,,8320,,,,SNTL,,,,,,,UT,,
+﻿site_id,site_name,basins,site_number,elev,sec,twp,rng,config,former association,county,quad_map,ownership,status,record,state,longitude,latitude,aws url string
+306,Atlanta Summit,"Boise, West Central, Central",15F04S,7580,23,5N,10E,SNTL,Middle Fork Boise,Elmore,Atlanta West,Boise NF,A,-81,ID,-115.2391,43.7569,Atlanta%20Summit
+312,Banner Summit,"Payette, Salmon, West Central, Central",15E11S,7040,11,11N,10E,SNTL,South Fork Payette,Boise,Banner Summit,Boise NF,A,-81,ID,-115.2345,44.3034,Banner%20Summit
+314,Base Camp,Snake Above Palisades,,7060,,,,SNTL,,,,,,,WY,,,Base%20Camp
+318,Beagle Springs,"Birch, Wood and Lost",,8850,,,,SNTL,,,,,,,MT,,,Beagle%20Springs
+319,Bear Basin,"Payette, Salmon, West Central, Central",16E11S,5350,30,19N,3E,SNTL,Little Salmon,Adams,Meadows,Payette NF,A,-81,ID,-116.1429,44.9522,Bear%20Basin
+320,Bear Canyon,"Little Wood, Big Lost, Wood and Lost, Central",13F03S,7900,22,5N,21E,SNTL,Big Lost,Custer,Star Hope Mine,Challis NF,A,-82,ID,-113.938,43.7437,Bear%20Canyon
+321,Bear Creek,Bruneau,,8040,,,,SNTL,,,,,,,NV,,,Bear%20Creek
+323,Bear Mountain,Pend Oreille-Kootenai,16A08S,5400,9,57N,3E,SNTL,Clark Fork,Bonner,Benning Mountain,Kaniksu NF,A,-81,ID,-116.0745,48.3058,Bear%20Mountain
+992,Bear River RS,Bear,,8777,,,,SNTL,,,,,,,UT,,,Bear%20River%20RS
+324,Bear Saddle,"Weiser, Payette, West Central, Central",16E10S,6180,30,15N,5W,SNTL,Mann,Washington,Sturgill Peak,Payette NF,A,-82,ID,-116.9801,44.6055,Bear%20Saddle
+336,Big Bend,"Owyhee, Bruneau",,6898,,,,SNTL,,,,,,,NV,,,Big%20Bend
+338,Big Creek Summit,"Payette, Salmon, West Central, Central",15E02S,6580,24,15N,5E,SNTL,Salmon,Valley,Gold Fork Rock,Boise NF,A,-82,ID,-115.7937,44.6264,Big%20Creek%20Summit
+353,Blind Bull Sum,Snake Above Palisades,,8650,,,,SNTL,,,,,,,WY,,,Blind%20Bull%20Sum
+978,Bogus Basin,"Boise, Payette, West Central, Central",16F02S,6340,16,5N,3E,SNTL,Payette,Boise,Shafer Butte,Private,A,-99,ID,-116.0969,43.7638,Bogus%20Basin
+359,Bostetter R.S.,"Salmon Falls, Goose Creek",14G01S,7500,35,14S,19E,SNTL,Trapper,Cassia,Trapper Peak,Sawtooth NF,A,-82,ID,-114.1927,42.1646,Bostetter%20R.S.
+370,Brundage Reservoir,"Payette, Salmon, West Central, Central",16D09S,6250,30,20N,3E,SNTL,Little Salmon,Adams,Brundage Mountain,Payette NF,A,-87,ID,-116.1325,45.0432,Brundage%20Reservoir
+2151,Buffalo Jump,Bear,,6682,,,,SNTL,,,,,,,UT,,,Buffalo%20Jump
+374,Bug Lake,Bear,,7987,,,,SNTL,,,,,,,UT,,,Bug%20Lake
+376,Bunchgrass Meadow,Pend Oreille-Kootenai,,5000,,,,SNTL,,,,,,,WA,,,Bunchgrass%20Meadow
+1135,Burts Miller Ranch,Bear,,8000,,,,SNTL,,,,,,,UT,,,Burts%20Miller%20Ranch
+382,Camas Creek Divide,"Boise, Big Wood, Wood and Lost, West Central, Central",15F09S,5710,11,2S,9E,SNTL,Big Wood,Elmore,Cat Creek Summit,Boise NF,A,-92,ID,-115.3453,43.2655,Camas%20Creek%20Divide
+392,Chalk Creek #1,Bear,,9171,,,,SNTL,,,,,,,UT,,,Chalk%20Creek%20#1
+895,Chocolate Gulch,"Big Wood, Wood and Lost, Central",14F19S,6440,15,5N,17E,SNTL,Big Wood,Blaine,Amber Lakes,Sawtooth NF,A,-93,ID,-114.4181,43.7685,Chocolate%20Gulch
+1204,Columbia Basin,Owyhee,,6483,,,,SNTL,,,,,,,NV,,,Columbia%20Basin
+411,Cool Creek,Clearwater,15C16S,6280,35,40N,9E,SNTL,North Fork Clearwater,Clearwater,Elizabeth Lake,Clearwater NF,A,-85,ID,-115.2957,46.7636,Cool%20Creek
+419,Cottonwood Creek,Snake Above Palisades,,7670,,,,SNTL,,,,,,,WY,,,Cottonwood%20Creek
+1306,Couch Summit,"Big Wood, Boise, West Central, Wood and Lost, Central",,6776,,,,SNTL,,,,,,,ID,-114.802179,43.517577,Couch%20Summit
+423,Cozy Cove,"Payette, West Central, Central",15E08S,5380,17,11N,7E,SNTL,Deadwood,Valley,Deadwood Reservoir,Boise NF,A,-81,ID,-115.6553,44.2878,Cozy%20Cove
+424,Crab Creek,"Birch, Wood and Lost, Central",11E37S,6860,21,13N,38E,SNTL,Camas-Beaver,Clark,Kilgore,Targhee NF,A,-82,ID,-111.9935,44.4367,Crab%20Creek
+425,Crater Meadows,Clearwater,15C09S,5960,11,37N,9E,SNTL,North Fork Clearwater,Clearwater,Cook Mountain,Clearwater NF,A,-85,ID,-115.2885,46.5632,Crater%20Meadows
+439,Deadwood Summit,"Payette, Salmon, West Central, Central",15E04S,6860,13,14N,7E,SNTL,Deadwood,Valley,Tyndall Meadows,Boise NF,A,-81,ID,-115.563,44.5448,Deadwood%20Summit
+450,Dollarhide Summit,"Boise, Big Wood, Wood and Lost, West Central, Central",14F08S,8420,9,3N,15E,SNTL,Big Wood,Blaine,Dollarhide Mountain,Sawtooth NF,A,-82,ID,-114.6746,43.6023,Dollarhide%20Summit
+460,East Rim Divide,Snake Above Palisades,,7930,,,,SNTL,,,,,,,WY,,,East%20Rim%20Divide
+466,Elk Butte,Clearwater,16C20S,5690,6,40N,3E,SNTL,North Fork Clearwater,Clearwater,Elk Butte,Clearwater NF,A,-83,ID,-116.1223,46.84,Elk%20Butte
+471,Emigrant Summit,Bear,11G06S,7390,21,12S,42E,SNTL,Bear,Bear Lake,Midnight Mountain,Caribou NF,A,-82,ID,-111.5609,42.3606,Emigrant%20Summit
+476,Fawn Creek,Owyhee,,7031,,,,SNTL,,,,,,,NV,,,Fawn%20Creek
+1305,Fish Ck,"Little Wood, Big Lost, Wood and Lost, Central",,6479,,,,SNTL,,,,,,,ID,-113.71928,43.555482,Fish%20Ck
+484,Franklin Basin,Bear,11G32S,8170,7,16S,42E,SNTL,Cub,Franklin,Egan Basin,"Cache NF, admin. by Caribou NF",A,-82,ID,-111.6033,42.0511,Franklin%20Basin
+1262,Fry Canyon,Owyhee,,6798,,,,SNTL,,,,,,,NV,,,Fry%20Canyon
+489,Galena,"Big Wood, Salmon, Wood and Lost, Central",14F17S,7470,4,6N,15E,SNTL,Big Wood,Blaine,Horton Peak,Sawtooth NRA,A,-83,ID,-114.6727,43.878,Galena
+490,Galena Summit,"Big Wood, Salmon, Wood and Lost, Central",14F12S,8780,7,6N,15E,SNTL,Big Wood,Blaine,Horton Peak,Sawtooth NRA,A,-82,ID,-114.7136,43.875,Galena%20Summit
+1114,Garden City Summit,Bear,,7705,,,,SNTL,,,,,,,UT,,,Garden%20City%20Summit
+492,Garfield R.S.,"Little Wood, Wood and Lost, Central",13F04S,6560,11,3N,21E,SNTL,Little Wood,Blaine,Muldoon,Sawtooth NF,A,-82,ID,-113.9308,43.6104,Garfield%20R.S.
+918,Garver Creek,Pend Oreille-Kootenai,,4250,,,,SNTL,,,,,,,MT,,,Garver%20Creek
+1151,George Creek,Raft,,8964,,,,SNTL,,,,,,,UT,,,George%20Creek
+493,Giveout,Bear,11G33S,6930,2,12S,45E,SNTL,Montpelier,Bear Lake,Meade Peak,Caribou NF,A,-82,ID,-111.1663,42.4132,Giveout
+496,Graham Guard Sta.,"Boise, West Central, Central",15F14S,5690,9,7N,10E,SNTL,North Fork Boise,Elmore,Swanholm Peak,Boise NF,A,-81,ID,-115.2739,43.9538,Graham%20Guard%20Sta.
+497,Granite Creek,Snake Above Palisades,,6770,,,,SNTL,,,,,,,WY,,,Granite%20Creek
+499,Grassy Lake,"Snake Above Palisades, Snake Above Jackson Lake, Henrys Fork-Teton",,7265,,,,SNTL,,,,,,,WY,,,Grassy%20Lake
+506,Gros Ventre Summit,Snake Above Palisades,,8750,,,,SNTL,,,,,,,WY,,,Gros%20Ventre%20Summit
+944,Gunsight Pass,Snake Above Palisades,,9820,,,,SNTL,,,,,,,WY,,,Gunsight%20Pass
+516,Hawkins Lake,Pend Oreille-Kootenai,,6450,,,,SNTL,,,,,,,MT,,,Hawkins%20Lake
+517,Hayden Fork,Bear,,9130,,,,SNTL,,,,,,,UT,,,Hayden%20Fork
+520,Hemlock Butte,Clearwater,15C06S,5810,7,36N,7E,SNTL,North Fork Clearwater,Clearwater,Hemlock Butte,Clearwater NF,A,-84,ID,-115.6337,46.481,Hemlock%20Butte
+988,Hidden Lake,Pend Oreille-Kootenai,16A12S,5040,17,64N,3W,SNTL,Kootenai,Boundary,Grass Mountain,Kaniksu NF,A,0,ID,-116.7575,48.8937,Hidden%20Lake
+524,Hilts Creek,"Big Lost, Little Lost, Wood and Lost, Central",13E27S,8000,15,8N,25E,SNTL,Little Lost,Custer,Warren Mountain,Challis NF,A,-81,ID,-113.4723,44.019,Hilts%20Creek
+530,Hoodoo Basin,"Coeur D'Alene-St. Joe, Clearwater",,6050,,,,SNTL,,,,,,,MT,,,Hoodoo%20Basin
+534,Howell Canyon,Raft,13G01S,7980,2,13S,24E,SNTL,Raft,Cassia,Conner Ridge,Sawtooth NF,A,-82,ID,-113.6156,42.3213,Howell%20Canyon
+535,Humboldt Gulch,Coeur D'Alene-St. Joe,15B21S,4250,2,48N,5E,SNTL,Coeur d'Alene,Shoshone,Burke,Coeur d'Alene NF,A,-82,ID,-115.7764,47.5318,Humboldt%20Gulch
+537,Hyndman,"Big Wood, Wood and Lost, Central",14F16S,7440,2,4N,19E,SNTL,Big Wood,Blaine,Hyndman Peak,Sawtooth NF,A,-82,ID,-114.1589,43.7106,Hyndman
+546,Island Park,Henrys Fork-Teton,11E10S,6290,28,13N,43E,SNTL,Henrys Fork,Fremont,Island Park Dam,Targhee NF,A,-82,ID,-111.3851,44.4203,Island%20Park
+548,Jack Creek Upper,Owyhee,,7377,,,,SNTL,,,,,,,NV,,,Jack%20Creek%20Upper
+549,Jacks Peak,Owyhee,,8424,,,,SNTL,,,,,,,NV,,,Jacks%20Peak
+550,Jackson Peak,"Boise, Payette, West Central, Central",15E09S,7070,7,8N,9E,SNTL,North Fork Boise,Boise,Jackson Peak,Boise NF,A,-82,ID,-115.4432,44.0509,Jackson%20Peak
+1211,Jakes Creek,Salmon Falls,,7380,,,,SNTL,,,,,,,NV,,,Jakes%20Creek
+554,Kelley R.S.,Bear,,8180,,,,SNTL,,,,,,,WY,,,Kelley%20R.S.
+1115,Klondike Narrows,Bear,,7250,,,,SNTL,,,,,,,UT,,,Klondike%20Narrows
+568,Lakeview Ridge,"Birch, Wood and Lost",,7400,,,,SNTL,,,,,,,MT,,,Lakeview%20Ridge
+573,Laurel Draw,Owyhee,,6682,,,,SNTL,,,,,,,NV,,,Laurel%20Draw
+576,Lemhi Ridge,Salmon,,8100,,,,SNTL,,,,,,,MT,,,Lemhi%20Ridge
+577,Lewis Lake Divide,"Snake Above Palisades, Snake Above Jackson Lake",,7850,,,,SNTL,,,,,,,WY,,,Lewis%20Lake%20Divide
+579,Lily Lake,Bear,,9133,,,,SNTL,,,,,,,UT,,,Lily%20Lake
+588,Lolo Pass,Clearwater,14C05S,5240,16,38N,15E,SNTL,Lochsa,Idaho,Lolo Hot Springs,Clearwater NF,A,-84,ID,-114.5807,46.6512,Lolo%20Pass
+1016,Long Valley,"Payette, West Central, Central",16E18S,4890,28,17N,3E,SNTL,Payette,Valley,Lake Fork,Private,A,-2,ID,-116.0888,44.7884,Long%20Valley
+594,Lookout,Coeur D'Alene-St. Joe,15B02S,5140,4,47N,6E,SNTL,Coeur d'Alene,Shoshone,Lookout Pass,Coeur d'Alene NF,A,-83,ID,-115.7058,47.4579,Lookout
+597,Loomis Park,Snake Above Palisades,,8240,,,,SNTL,,,,,,,WY,,,Loomis%20Park
+600,Lost Lake,"Coeur D'Alene-St. Joe, Clearwater",15B14S,6110,9,43N,4E,SNTL,North Fork Clearwater,Shoshone,Widow Montain,BLM,A,-83,ID,-115.9607,47.081,Lost%20Lake
+601,Lost-Wood Divide,"Big Wood, Big Lost, Wood and Lost, Central",14F03S,7900,25,6N,18E,SNTL,Big Lost,Blaine,Rock Roll Canyon,Sawtooth NF,A,-82,ID,-114.264,43.8243,Lost-Wood%20Divide
+610,Magic Mountain,"Salmon Falls, Goose Creek",14G02S,6880,25,14S,18E,SNTL,Salmon Falls,Twin Falls,Pike Mountain,Sawtooth NF,A,-82,ID,-114.2866,42.1807,Magic%20Mountain
+620,Meadow Lake,Little Lost,13E18S,9150,23,13N,26E,SNTL,Lemhi,Lemhi,Gilmore,Salmon NF,A,-82,ID,-113.3182,44.4366,Meadow%20Lake
+1207,Merritt Mountain,"Owyhee, Bruneau",,6915,,,,SNTL,,,,,,,NV,,,Merritt%20Mountain
+623,Mica Creek,Coeur D'Alene-St. Joe,16B14S,4750,19,44N,2E,SNTL,St. Joe,Shoshone,Crystal Peak,Private,A,-90,ID,-116.2666,47.1505,Mica%20Creek
+627,Mill Creek Summit,"Salmon, Central",14E01S,8800,8,13N,17E,SNTL,Salmon,Custer,Bayhorse Lake,Challis NF,A,-82,ID,-114.4899,44.4721,Mill%20Creek%20Summit
+634,Monte Cristo,Bear,,8932,,,,SNTL,,,,,,,UT,,,Monte%20Cristo
+636,Moonshine,"Little Lost, Salmon, Wood and Lost, Central",13E06S,7440,31,13N,26E,SNTL,Little Lost,Lemhi,Iron Creek Point,Challis NF,A,-82,ID,-113.3981,44.4147,Moonshine
+638,Moose Creek,Salmon,13D16S,6200,14,27N,21E,SNTL,North Fork Salmon,Lemhi,Lost Trail Pass,Salmon NF,A,-82,ID,-113.9532,45.6701,Moose%20Creek
+637,Mores Creek Summit,"Boise, West Central, Central",15F01S,6100,19,7N,7E,SNTL,North Fork Boise,Boise,Sunset Mountain,Boise NF,A,-83,ID,-115.6659,43.932,Mores%20Creek%20Summit
+639,Morgan Creek,"Salmon, Central",14E04S,7600,31,18N,19E,SNTL,Salmon,Lemhi,Black Mountain,Salmon NF,A,-82,ID,-114.269,44.8426,Morgan%20Creek
+989,Moscow Mountain,Clearwater,16C02S,4700,16,40N,3W,SNTL,Palouse,Latah,Moscow Mountain,ID Nature Cons.,A,0,ID,-116.8535,46.805,Moscow%20Mountain
+645,Mosquito Ridge,"Pend Oreille-Kootenai, Coeur D'Alene-St. Joe",16A04S,5200,5,54N,2E,SNTL,Coeur d'Alene,Shoshone,Derr Point,Coeur d'Alene NF,A,-82,ID,-116.2305,48.0574,Mosquito%20Ridge
+650,Mountain Meadows,"Salmon, Clearwater",15D06S,6360,9,27N,10E,SNTL,Selway,Idaho,Boston Mountain,Nez Perce NF,A,-81,ID,-115.2289,45.6955,Mountain%20Meadows
+654,Mud Flat,Owyhee,16G07S,5730,34,9S,2W,SNTL,Owyhee,Owyhee,Wagon Box Basin,Private,A,-82,ID,-116.5593,42.6004,Mud%20Flat
+1053,Myrtle Creek,Pend Oreille-Kootenai,16A14S,3520,16,37N,1W,SNTL,Kootenai,Boundary,,Kaniksu NF,A,-4,ID,-116.4631,48.7226,Myrtle%20Creek
+662,Nez Perce Camp,Clearwater,,5650,,,,SNTL,,,,,,,MT,,,Nez%20Perce%20Camp
+1272,Oneil Creek,"Bruneau, Salmon Falls",,6520,,,,SNTL,,,,,,,NV,,,Oneil%20Creek
+677,Oxford Spring,"Willow-Blackfoot-Portneuf, Bear",12G18S,6740,27,13S,37E,SNTL,Malad,Oneida,Malad Summit,Caribou NF,A,-81,ID,-112.1252,42.2603,Oxford%20Spring
+1299,Pebble Creek,"Willow-Blackfoot-Portneuf, Portneuf, Upper Snake",,7797,,,,SNTL,,,,,,,ID,-112.108375,42.766393,Pebble%20Creek
+689,Phillips Bench,Snake Above Palisades,,8200,,,,SNTL,,,,,,,WY,,,Phillips%20Bench
+1142,Pierce R.S.,Clearwater,15C05S,3080,2,36N,5E,SNTL,Clearwater,Clearwater,Pierce,Clearwater NF,A,-10,ID,-115.7957,46.496,Pierce%20R.S.
+695,Pine Creek Pass,"Snake Above Palisades, Henrys Fork-Teton",11F02S,6720,24,3N,44E,SNTL,Teton,Teton,Fourth of July Peak,Targhee NF,A,-89,ID,-111.2116,43.57,Pine%20Creek%20Pass
+698,Pole Creek R.S.,"Bruneau, Salmon Falls",,8360,,,,SNTL,,,,,,,NV,,,Pole%20Creek%20R.S.
+704,Prairie,"Boise, West Central, Central",15F06S,4800,13,2N,7E,SNTL,South Fork Boise,Elmore,Prairie,Private,A,-82,ID,-115.573,43.5051,Prairie
+707,Quartz Peak,Pend Oreille-Kootenai,,4700,,,,SNTL,,,,,,,WA,,,Quartz%20Peak
+2029,Reynolds Creek,Owyhee,16F08S,5600,32,1S,4W,SNTL,Owyhee,Owyhee,Soldier Cap,Private,A,,ID,-116.8431,43.2886,Reynolds%20Creek
+727,Saddle Mountain,Salmon,,7940,,,,SNTL,,,,,,,MT,,,Saddle%20Mountain
+730,Salt River Summit,"Snake Above Palisades, Bear",,7640,,,,SNTL,,,,,,,WY,,,Salt%20River%20Summit
+735,Savage Pass,Clearwater,14C04S,6170,18,36N,15E,SNTL,Lochsa,Idaho,Grave Peak,Clearwater NF,A,-84,ID,-114.6333,46.4663,Savage%20Pass
+915,Schwartz Lake,"Salmon, Central",13E16S,8540,34,18N,22E,SNTL,Lemhi,Lemhi,Lem Peak,Salmon NF,A,-96,ID,-113.8373,44.8462,Schwartz%20Lake
+738,Schweitzer Basin,Pend Oreille-Kootenai,16A10S,6090,18,58N,2W,SNTL,Pend Oreille,Bonner,Mount Casey,Private,A,-82,ID,-116.6392,48.3743,Schweitzer%20Basin
+740,Secesh Summit,"Payette, Salmon, West Central, Central",15D01S,6520,4,21N,4E,SNTL,North Fork Payette,Valley,Victor Peak,Payette NF,A,-82,ID,-115.9731,45.1885,Secesh%20Summit
+741,Sedgwick Peak,"Willow-Blackfoot-Portneuf, Bear",11G30S,7850,25,10S,38E,SNTL,Portneuf,Bannock,Sedgwick Peak,Private,A,-89,ID,-111.9564,42.525,Sedgwick%20Peak
+746,Seventysix Creek,Bruneau,,7350,,,,SNTL,,,,,,,NV,,,Seventysix%20Creek
+747,Shanghi Summit,Clearwater,15C04S,4570,7,37N,6E,SNTL,North Fork Clearwater,Clearwater,French Mountain,Private,A,-83,ID,-115.7421,46.5661,Shanghi%20Summit
+749,Sheep Mountain,Willow-Blackfoot-Portneuf,11F11S,6570,30,2S,41E,SNTL,Willow,Bingham,Long Valley,Private,A,-84,ID,-111.6878,43.2093,Sheep%20Mountain
+752,Sherwin,"Coeur D'Alene-St. Joe, Clearwater",16C01S,3200,28,42N,1E,SNTL,St. Maries,Latah,Bechtel Butte,Private,A,-83,ID,-116.3398,46.9503,Sherwin
+761,Slug Creek Divide,"Willow-Blackfoot-Portneuf, Bear",11G05S,7225,15,10S,44E,SNTL,Blackfoot,Caribou,Harrington Peak,Caribou NF,A,-81,ID,-111.298,42.5625,Slug%20Creek%20Divide
+926,Smiley Mountain,"Little Wood, Big Lost, Wood and Lost, Central",13F13S,9520,28,5N,22E,SNTL,Big Lost,Custer,Smiley Mountain,Challis NF,A,-2,ID,-113.834,43.7272,Smiley%20Mountain
+764,Snake River Station,"Snake Above Palisades, Snake Above Jackson Lake",,6920,,,,SNTL,,,,,,,WY,,,Snake%20River%20Station
+769,Soldier R.S.,"Big Wood, Wood and Lost, Central",14F11S,5740,29,2N,14E,SNTL,Big Wood,Camas,Phillips,Sawtooth NF,A,-87,ID,-114.8269,43.4841,Soldier%20R.S.
+770,Somsen Ranch,"Willow-Blackfoot-Portneuf, Snake Above Palisades",11G01S,6800,25,5S,43E,SNTL,Willow,Caribou,Wayan East,Private,A,-81,ID,-111.3593,42.9528,Somsen%20Ranch
+774,South Mountain,Owyhee,16G01S,6500,35,7S,5W,SNTL,Owyhee,Owyhee,Williams Creek,Private,A,-82,ID,-116.9004,42.7648,South%20Mountain
+779,Spring Creek Divide,"Snake Above Palisades, Bear",,9000,,,,SNTL,,,,,,,WY,,,Spring%20Creek%20Divide
+782,Squaw Flat,"Payette, Weiser, Salmon, West Central, Central",16E05S,6240,32,17N,2E,SNTL,Weiser,Adams,No Business Mountain,Payette NF,A,-82,ID,-116.2486,44.7708,Squaw%20Flat
+1203,Stag Mountain,Bruneau,,7640,,,,SNTL,,,,,,,NV,,,Stag%20Mountain
+792,Stickney Mill,"Big Lost, Wood and Lost, Central",14F02S,7430,9,6N,19E,SNTL,Big Lost,Custer,Phi Kappa Mountain,Challis NF,A,-82,ID,-114.209,43.8612,Stickney%20Mill
+803,Sunset,Coeur D'Alene-St. Joe,15B09S,5540,33,49N,5E,SNTL,Coeur d'Alene,Shoshone,Burke,Private,A,-82,ID,-115.8242,47.5555,Sunset
+805,Swede Peak,"Little Wood, Wood and Lost, Central",13F09S,7640,4,3N,21E,SNTL,Little Wood,Blaine,Star Hope Mine,Sawtooth NF,A,-81,ID,-113.9689,43.626,Swede%20Peak
+811,Taylor Canyon,Owyhee,,6325,,,,SNTL,,,,,,,NV,,,Taylor%20Canyon
+816,Thumb Divide,"Snake Above Palisades, Snake Above Jackson Lake",,7980,,,,SNTL,,,,,,,WY,,,Thumb%20Divide
+1136,Toe Jam,Owyhee,,7690,,,,SNTL,,,,,,,NV,,,Toe%20Jam
+822,Togwotee Pass,Snake Above Palisades,,9580,,,,SNTL,,,,,,,WY,,,Togwotee%20Pass
+823,Tony Grove Lake,Bear,,8474,,,,SNTL,,,,,,,UT,,,Tony%20Grove%20Lake
+828,Trial Lake,Bear,,9992,,,,SNTL,,,,,,,UT,,,Trial%20Lake
+830,Trinity Mountain,"Boise, West Central, Central",15F05S,7770,6,3N,9E,SNTL,Middle Fork Boise,Elmore,Little Trinity Lake,Boise NF,A,-81,ID,-115.4382,43.629,Trinity%20Mtn.
+831,Triple Peak,Snake Above Palisades,,8500,,,,SNTL,,,,,,,WY,,,Triple%20Peak
+835,Twelvemile Creek,Clearwater,,5600,,,,SNTL,,,,,,,MT,,,Twelvemile%20Creek
+836,Twin Lakes,Clearwater,,6400,,,,SNTL,,,,,,,MT,,,Twin%20Lakes
+837,Two Ocean Plateau,"Snake Above Palisades, Snake Above Jackson Lake",,9240,,,,SNTL,,,,,,,WY,,,Two%20Ocean%20Plateau
+1098,Usu Doc Daniel,Bear,,8270,,,,SNTL,,,,,,,UT,,,Usu%20Doc%20Daniel
+979,Van Wyck,"Payette, Weiser, West Central, Central",16E14S,4920,16,12N,1E,SNTL,Weiser,Washington,Twin Sisters,State,A,-1,ID,-116.3366,44.3767,Van%20Wyck
+845,Vienna Mine,"Boise, Salmon, West Central, Central",14F04S,8960,1,5N,13E,SNTL,Salmon,Blaine,Frenchman Creek,Private,A,-82,ID,-114.8527,43.7994,Vienna%20Mine
+855,West Branch,"Weiser, Salmon, West Central, Central",16D08S,5560,15,20N,1W,SNTL,Weiser,Adams,Railroad Saddle,Payette NF,A,-83,ID,-116.4541,45.0722,West%20Branch
+860,White Elephant,Henrys Fork-Teton,11E36S,7710,17,14N,43E,SNTL,Henrys Fork,Fremont,Sawtell Peak,Targhee NF,A,-83,ID,-111.4109,44.5327,White%20Elephant
+867,Wildhorse Divide,Willow-Blackfoot-Portneuf,12G17S,6490,4,8S,34E,SNTL,Portneuf,Bannock,Pocatello South,Caribou NF,A,-86,ID,-112.4778,42.7574,Wildhorse%20Divide
+868,Willow Creek,Snake Above Palisades,,8080,,,,SNTL,,,,,,,WY,,,Willow%20Creek
+871,Wilson Creek,"Bruneau, Salmon Falls",15G02S,7120,24,16S,12E,SNTL,Salmon Falls,Twin Falls,Curtis Draw,Private,A,-91,ID,-115.0028,42.0126,Wilson%20Creek
+878,Younts Peak,Snake Above Palisades,,8350,,,,SNTL,,,,,,,WY,,,Younts%20Peak
+455,Dry Bread Pond,Bear,,8320,,,,SNTL,,,,,,,UT,,,Dry%20Bread%20Pond
