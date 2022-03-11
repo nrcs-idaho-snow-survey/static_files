@@ -123,6 +123,7 @@
           "long label": "Owyhee (Lake Owyhee)",
           "baseflow months": [10, 11, 12, 1, 2],
           "adequate irrigation supply": 575,
+          "_comment": "As of Mar, 2022, Owyhee Irr Dist. considers 575 KAF to be full allotments for Feb-Sep period. It is likely that 530 KAF is sufficient.",
           "1991-2020 spring to summer average streamflow": 535,
           "1991-2020 spring to summer median streamflow": 450,
           "forecast point": "Owyhee R bl Owyhee Dam",
